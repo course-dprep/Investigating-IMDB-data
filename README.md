@@ -3,6 +3,8 @@
 Does the director of the movie influence of the opening gross of the movie?
 moderators: amount of theathers, genre, runtime and maybe we can add 
 
+i cant seem to find out how to commit in my personal branche?
+
 # Example of reproducible research workflow 
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
