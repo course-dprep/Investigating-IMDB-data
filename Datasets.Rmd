@@ -8,10 +8,10 @@ date: "2023-09-12"
 
 url <- "https://datasets.imdbws.com/title.basics.tsv.gz"
 
-# Download het bestand van IMDb en lees het in als een dataset
+# Download the IMdb file and read as dataset
 imdb_basics_data <- read_delim(url, delim = "\t", col_names = TRUE, col_types = col_types)
 
-# Definieer de kolomtypen voor de dataset
+# Define all variables 
 col_types <- cols(
   tconst = col_character(),
   titleType = col_character(),
@@ -24,10 +24,10 @@ col_types <- cols(
   isAdult = col_logical()
 )
 
-# Lees het gedownloade bestand in als een dataset (tab-separated values)
+# Read downloaded file as dataset
 imdb_basics_data <- read_delim(download_path, delim = "\t", col_names = TRUE, col_types = col_types)
 
-# Bekijk de eerste paar rijen van de dataset
+# Look at first rows of dataset
 head(imdb_basics_data)
 ```
 
