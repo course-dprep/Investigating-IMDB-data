@@ -30,3 +30,41 @@ print(unique_values)
 #Select only the data that contains titleType movie
 filtered_data <- imdb_basics_crew_name %>% filter(titleType == "movie")
 ```
+```{r}
+
+merged_dataset <- opening_weekend %>% left_join(imdb_basics_crew_name, by = c("name" = "primaryTitle"))
+
+```
+
+```{r}
+# Find duplicated ride_ids
+merged_dataset %>% 
+  count(name) %>% 
+  filter(n > 1)
+
+# Remove full and partial duplicates
+merged_dataset_unique <- merged_dataset %>%
+  # Only based on ride_id instead of all cols
+  distinct(name, .keep_all = TRUE)
+
+# Find duplicated ride_ids in bike_share_rides_unique
+merged_dataset_unique %>%
+  # Count the number of occurrences of each ride_id
+  count(name) %>%
+  # Filter for rows with a count > 1
+  filter(n > 1)
+
+```
+
+
+
+```{r}
+csv_bestand <- "merged_dataset_unique.csv"
+
+write.csv(merged_dataset_unique, file = csv_bestand, row.names = FALSE)
+
+cat("Het dataframe is opgeslagen als", csv_bestand, "\n")
+
+
+
+``` 
