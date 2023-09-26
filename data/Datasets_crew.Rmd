@@ -1,0 +1,28 @@
+---
+title: "Dataset_crew"
+output: html_document
+date: "2023-09-15"
+---
+#Datasets crew download via url
+
+```{r}
+# Load package tidyverse
+library(tidyverse)
+
+# Define the URL of the Imdb dataset
+url <- "https://datasets.imdbws.com/title.crew.tsv.gz"
+
+# Define the column types and download and import the dataset
+imdb_crew_data <- read_delim(url, delim = "\t", col_names = TRUE,
+  col_types = cols(
+    tconst = col_character(),
+    directors = col_character(),
+    writers = col_character()
+  )
+)
+
+# Look at the first few rows of the dataset
+head(imdb_crew_data)
+
+```
+

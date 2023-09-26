@@ -1,0 +1,21 @@
+---
+title: "Merge_sample_datasets"
+author: "Jolie Dielemans"
+date: "2023-09-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+merged_data <- merge(imdb_basics_data, imdb_crew_data, by = "tconst")
+
+library(tidyr)
+final_merged_data <- merge(merged_data, imdb_name_basics, by.x = "directors", by.y = "nconst")
+
+# View the final merged dataset
+head(final_merged_data) 
+```
+
