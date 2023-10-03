@@ -1,0 +1,50 @@
+---
+title: "Filtering variables"
+output: html_document
+date: "2023-10-02"
+---
+In this RMarkdown file all unnessasary variables are being deleted or renamed.
+
+```{r}
+# Deleting and renaming variables
+filtered_merged_dataset <- merged_dataset_unique %>%
+  filter(titleType.x == "movie")
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-isAdult.x)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-startYear.x, -endYear)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-tconst.y)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-genres.y)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-titleType.y)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-isAdult.y, -startYear.y)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-primaryTitle)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-runtimeMinutes.y)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-originalTitle)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-knownForTitles)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  rename(tconst = tconst.x)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  rename(titleType = titleType.x)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  rename(genres = genres.x)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  rename(runtimeMinutes = runtimeMinutes.x)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-titleType)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-primaryName)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  rename(movie = name)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  rename(director_identifier = tconst)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-nconst)
+```
