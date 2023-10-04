@@ -10,10 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-merged_data <- merge(imdb_basics_data, imdb_crew_data, by = "tconst")
+merged_data <- left_join(imdb_basics_data, imdb_crew_data, by = "tconst")
 
 library(tidyr)
-final_merged_data <- merge(merged_data, imdb_name_basics, by.x = "directors", by.y = "nconst")
+final_merged_data <- merged_data %>% 
+  left_join(imdb_name_basics, by = c("directors","nconst"))
 
 # View the final merged dataset
 head(final_merged_data) 
