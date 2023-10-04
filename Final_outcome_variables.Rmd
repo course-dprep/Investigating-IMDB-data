@@ -1,0 +1,42 @@
+---
+title: "Final_outcome_variables"
+output: html_document
+date: "2023-10-04"
+---
+
+## Renaming and deleting unnecessary variables
+
+```{r}
+#read merged data csv file
+merged_data <- read.csv("merged_dataset_unique.csv", sep = ";")
+
+#delete and rename variables
+filtered_merged_dataset <- merged_dataset_unique %>%
+  filter(titleType == "movie")
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-isAdult)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-startYear)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-tconst)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-titleType)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-originalTitle)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-knownForTitles)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  select(-primaryName)
+filtered_merged_dataset <- filtered_merged_dataset %>%
+  rename(movie = name)
+```
+
+## Converting merged_dataset_unique into a csv file
+
+```{r}
+csv_bestand <- "filtered_merged_dataset.csv"
+
+write_csv2(filtered_merged_dataset, file = csv_bestand)
+
+cat("The dataframe has been saved as", csv_bestand, "\n")
+```
