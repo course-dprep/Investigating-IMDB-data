@@ -66,38 +66,38 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 2. Run some analysis
 3. Present results in a final pdf generated using LaTeX
 
-## Dependencies
-### Software
+# Dependencies
+## Software
 In this research project, a diverse range of software applications were employed to gather and manipulate data effectively. Below, you will find a comprehensive list of the requisite software packages utilized throughout the course of this project: 
 - R (Version 4.3.1) & RStudio (Version 2023.06.1)
 - Python (Version 3.11.4)
 - Make (Version 3.81)
 
-### Packages
+## Packages
 In the context of data preparation and analysis in R, various packages are employed. Below, you will find a categorized list of packages based on the specific purposes for which they are utilized:
-```
-- Data preparation: 
-library(base)
-library(datasets)
-library(graphics)
-library(grDevices)
-library(methods)
-library(stats)
-library(utils)
-library(tidyverse)
-library(dplyr)
+
+Data preparation: 
+- library(base)
+- library(datasets)
+- library(graphics)
+- library(grDevices)
+- library(methods)
+- library(stats)
+- library(utils)
+- library(tidyverse)
+- library(dplyr)   
 
 
-- Data analysis
-library(base)
-library(datasets)
-library(graphics)
-library(grDevices)
-library(methods)
-library(stats)
-library(utils)
-library(readr)
-```
+Data analysis:
+- library(base)
+- library(datasets)
+- library(graphics)
+- library(grDevices)
+- library(methods)
+- library(stats)
+- library(utils)
+- library(readr)
+
 # Recreating the Project: A Comprehensive Guide -- Need to check this
 
 
