@@ -3,8 +3,8 @@ title: "Final_outcome_merged_datasets"
 output: html_document
 date: "2023-10-04"
 ---
-## IMPORTING ALL DATSETS
-# Import datasets from Imdb 
+# Importing all the raw data
+## Import datasets from Imdb 
 ```{r, message=FALSE, warning=FALSE}
 # Load tidyverse
 library(tidyverse)
@@ -56,7 +56,7 @@ imdb_name_basics <- read_delim(url_name_basics, delim = "\t", col_types = col_ty
 # Look at the first few rows of the dataset
 head(imdb_name_basics)
 ```
-## Merging Imbd datsets
+# Merging Imbd datsets
 
 ```{R, message=FALSE, warning=FALSE}
 library(dplyr)
@@ -93,7 +93,6 @@ openingweekend_unique <- read.csv("../../gen/data-preparation/weekend_data.csv")
 # Merge the datasets by using a left join 
 merged_dataset <- openingweekend_unique %>% left_join(filtered_data, by = c("name" = "primaryTitle"))
 
-
 # Find duplicated ride_ids
 merged_dataset %>% 
   count(name) %>% 
@@ -112,7 +111,7 @@ count(name) %>%
 filter(n > 1)
 ```
 
-## Converting merged_dataset_unique into a csv file
+# Converting merged_dataset_unique into a csv file
 We will convert the dataset into a csv file to avoid that importing takes very long each time, as it is a very big dataset. 
 ```{r, message=FALSE, warning=FALSE}
 csv_bestand <- "merged_dataset_unique.csv"
