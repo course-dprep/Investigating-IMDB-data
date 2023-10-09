@@ -1,0 +1,65 @@
+---
+title: "Datasets_crew_sample"
+author: "Jolie Dielemans"
+date: "2023-09-22"
+output: html_document
+---
+
+# Download crew sample dataset
+## subsection
+###subsubsection
+```{r}
+# Load package tidyverse
+library(tidyverse)
+
+# Define the URL of the Imdb dataset
+url_crew <- "https://datasets.imdbws.com/title.crew.tsv.gz"
+
+# Define the column types and download and import the dataset
+imdb_crew_data <- read_delim(url_crew, delim = "\t", col_names = TRUE,
+  col_types = cols(
+    tconst = col_character(),
+    directors = col_character(),
+    writers = col_character()
+  ), n_max = 2000
+)
+```
+# Download basics sample dataset
+```{r}
+# Define the URL of the Imdb dataset
+url_basic <- "https://datasets.imdbws.com/title.basics.tsv.gz"
+
+# Define the column types
+col_types <- cols(
+  tconst = col_character(),
+  titleType = col_character(),
+  primaryTitle = col_character(),
+  originalTitle = col_character(),
+  startYear = col_double(),
+  endYear = col_double(),
+  runtimeMinutes = col_double(),
+  genres = col_character(),
+  isAdult = col_logical()
+)
+
+# Download and import the dataset
+imdb_basics_data <- read_delim(url_basic, delim = "\t", col_names = TRUE, col_types = col_types, n_max = 2000)
+```
+# Download name basics sample dataset
+```{r}
+url_name_basic <- "https://datasets.imdbws.com/name.basics.tsv.gz"
+
+# Read the data from the URL directly into a data frame
+col_types <- cols(
+  nconst = col_character(),
+  primaryName = col_character(),
+  birthYear = col_integer(),
+  deathYear = col_character(),
+  primaryProfession = col_character(),
+  knownForTitles = col_character()
+)
+
+# Conduct sample of 2000 observations
+imdb_name_basics <- read_delim(url_name_basic, delim = "\t", col_types = col_types, n_max = 2000)
+```
+
