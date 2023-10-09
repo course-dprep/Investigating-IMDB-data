@@ -1,0 +1,60 @@
+---
+title: "Examining the Influence of Film Directors on Movie Opening Gross"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  PDF: default
+date: "2023-10-05"
+---
+# Created variables
+In this analysis, we will look at the effect of the director on the opening gross of the movie. As stated before, we merged several datasets from Imdb with the boxofficemojo data on the opening gross of movies. For measuring the effect of the director, we constructed the variables "director_count" and "directed_above_median". The variable director_count measures the amount of times a specific director has directed a movie in the movie_director_data dataset. The variable directed_above_median is a dummy variable that equals 1 if the director has directed more movies than the median. 
+
+```{r setup, error=FALSE, warning = FALSE}
+library(readr)
+# Import the dataset
+csv_bestand <- "filtered_merged_dataset.csv"
+folder <- "~/Documents/Investigating-IMDB-data/gen/analysis/input"
+
+folder_path <- file.path(folder, csv_bestand)
+
+movie_director_data <- read.csv2(folder_path)
+
+
+```
+
+# Utilized models
+## T-test
+Firstly, we conduct a t-test to examine whether there is a significant difference in the means of the "directed_above_median" groups concerning opening gross.
+```{r, message=FALSE, warning=FALSE}
+# T-test + Bar plot to make the t-test visual
+  # T-test with opening gross DV and director_above_median IV
+t_test_result <- t.test(openinggross ~ directed_above_median, data = movie_director_data)
+print(t_test_result)
+
+# Calculate the average opening gross per group
+means <- tapply(movie_director_data$openinggross / 1e6, movie_director_data$directed_above_median, mean)
+
+# Make a bar chart of the two groups directed above the median 
+barplot(means, 
+        names.arg = c("Directed Below Median", "Directed Above Median"),
+        ylab = "Mean Opening Gross in Millions of dollars",
+        xlab = "Directed Above Median",
+        col = c("blue", "red"),
+        main = "Mean Opening Gross by Directed Above Median",
+        ylim = c(0, 70))  # Limit the y-axis to 0-70
+
+```
+
+## Linear regression
+We will do a regression analysis to find out if the significance in the mean of the groups is caused by the missing covariables. Thus, we will conduct a regression analysis by including the covariables theaters and runtime_dummy. 
+In this regression, openinggross is the independent variable. The numbers of theaters and the runtimedummy serve as covariables in the regression. 
+
+```{r pressure, error=FALSE, warning = FALSE}
+# Regression analysis
+openinggross_lm1 <- lm(openinggross ~ theathers + directed_above_median + runtime_dummy, movie_director_data)
+summary(openinggross_lm1)
+```
+
+# Conclusion
+Looking at the results, we clearly observe a difference in the two means between the opening gross of films directed by directors with higher recognition (directed_above_median = 1) against directors with a lower recognition (directed_above_median = 0), and this difference is statistically significant. However, upon reviewing the results of the linear regression, it becomes clear that this outcome is predominantly driven by other variables. By including the variables "theaters" and "runtime_dummy," we observe that the p-value for the variable "directed_above_median" becomes insignificant. The remaining variables in this model maintain their significance. Therefore, based on this dataset, it cannot be concluded that the director of a film has a significant impact on the opening gross of a film.
