@@ -14,7 +14,7 @@ How much does the director of the movie influence the opening gross of the movie
 ## Research method
 To collect the data a web scraper was built to collect the data from Boxofficemojo. Several data sets were collector from developer IMDB such as; title.basics.tsv.gz, title.crew.tsv.gz, name.basics.tsv.gz. From Box Office Mojo a web scraper was build to collect the following data; title, opening gross and amount of theaters. For the opening gross of a movie only the data for the top 1000 movies were available, for that reason the data from Box Office Mojo has been merged with the data of IMDB. The result were 992 observations out of 1000. The data had the be merged three several times to link all the different data sets with each other. 
 
-How do we justify our moderators? -- JOLIE CHECK
+For our regression analysis, we will use director_count as the independent variable of interest in the regression of the opening gross of movies on Imdb. As covariables, we used runtime in minutes and amount of theaters that the film was played in, as we expected that these variables would affect the opening gross. Probably, the more theaters the movie is played in, the higher the opening gross would be. Thus, a positive relationship is expected. Additionally, some people do not like long movies / movies of 190 minutes. Therefore,  the runtime in minutes is also expected to affect the opening gross. Concluding, these are the covariables we used in our regression analysis. The director count is the number of movies a director has directed. When a director has directed a lot of movies, especially popular movies,  he/ she is expected to be known by name. Therefore, we are interested in researching whether this affects the opening gross.
 
 ## Variables 
 
@@ -75,7 +75,7 @@ In this research project, a diverse range of software applications were employed
 
 ### Packages
 In the context of data preparation and analysis in R, various packages are employed. Below, you will find a categorized list of packages based on the specific purposes for which they are utilized:
-
+```
 - Data preparation: 
 library(base)
 library(datasets)
@@ -97,7 +97,7 @@ library(methods)
 library(stats)
 library(utils)
 library(readr)
-
+```
 # Recreating the Project: A Comprehensive Guide -- Need to check this
 
 
