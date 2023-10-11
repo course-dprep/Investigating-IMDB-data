@@ -112,7 +112,7 @@ filter(n > 1)
 ```
 
 # Converting merged_dataset_unique into a csv file
-We will convert the dataset into a csv file to avoid that importing takes very long each time, as it is a very big dataset. 
+#We will convert the dataset into a csv file to avoid that importing takes very long each time, as it is a very big dataset. 
 ```{r, message=FALSE, warning=FALSE}
 csv_bestand <- "merged_dataset_unique.csv"
 folder <- "../../gen/data-preparation"
