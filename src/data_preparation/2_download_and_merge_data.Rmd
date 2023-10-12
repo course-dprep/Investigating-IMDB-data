@@ -88,7 +88,7 @@ filtered_data <- imdb_basics_crew_name %>% filter(titleType == "movie")
 We will merge the Imdb datasets with the boxofficemojo dataset for data regarding the opening gross and theaters the movie was played in. 
 ```{r, message=FALSE, warning=FALSE}
 # Import Boxofficemojo data
-openingweekend_unique <- read.csv("../data/weekend_data.csv")
+openingweekend_unique <- read.csv("../../data/weekend_data.csv")
 
 # Merge the datasets by using a left join 
 merged_dataset <- openingweekend_unique %>% left_join(filtered_data, by = c("name" = "primaryTitle"))
