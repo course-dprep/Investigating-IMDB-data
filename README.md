@@ -16,6 +16,9 @@ To collect the data a web scraper was built to collect the data from Boxofficemo
 
 For our regression analysis, we will use director_count as the independent variable of interest in the regression of the opening gross of movies on Imdb. As covariables, we used runtime in minutes and amount of theaters that the film was played in, as we expected that these variables would affect the opening gross. Probably, the more theaters the movie is played in, the higher the opening gross would be. Thus, a positive relationship is expected. Additionally, some people do not like long movies / movies of 190 minutes. Therefore,  the runtime in minutes is also expected to affect the opening gross. Concluding, these are the covariables we used in our regression analysis. The director count is the number of movies a director has directed. When a director has directed a lot of movies, especially popular movies,  he/ she is expected to be known by name. Therefore, we are interested in researching whether this affects the opening gross.
 
+## conclusion
+Looking at the results, we clearly observe a difference in the two means between the opening gross of films directed by directors with higher recognition (directed_above_median = 1) against directors with a lower recognition (directed_above_median = 0), and this difference is statistically significant. However, upon reviewing the results of the linear regression, it becomes clear that this outcome is predominantly driven by other variables. By including the variables “theaters” and “runtime_dummy,” we observe that the p-value for the variable “directed_above_median” becomes insignificant. The remaining variables in this model maintain their significance. Therefore, based on this dataset, it cannot be concluded that the director of a film has a significant impact on the opening gross of a film.
+
 ## Variables 
 
 | Number| Variable| Description| Type|
