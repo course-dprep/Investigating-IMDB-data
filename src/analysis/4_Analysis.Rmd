@@ -22,7 +22,7 @@ movie_director_data <- read.csv2(folder_path)
 
 
 ```
-
+#test
 # Utilized models
 ## T-test
 Firstly, we conduct a t-test to examine whether there is a significant difference in the means of the "directed_above_median" groups concerning opening gross.
