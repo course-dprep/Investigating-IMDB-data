@@ -56,7 +56,6 @@ imdb_basics_crew <- left_join(title_basics_data, imdb_crew_data, by="tconst")
 imdb_basics_crew <- imdb_basics_crew %>%
   rename(director_identifier = directors)
 
-print(imdb_basics_crew)
 # Merge the dataframe that was created above with the imdb_name_basics data
 imdb_basics_crew_name <- left_join(imdb_basics_crew, imdb_name_basics, by = c ("director_identifier" = "nconst"))
 
@@ -66,9 +65,6 @@ imdb_basics_crew_name <- imdb_basics_crew_name %>%
 
 # See all unique values of the titleType
 unique_values <- unique(imdb_basics_crew_name$titleType)
-
-print(unique_values)
-
 # Select only the data that contains titleType movie
 filtered_data <- imdb_basics_crew_name %>% filter(titleType == "movie")
 
