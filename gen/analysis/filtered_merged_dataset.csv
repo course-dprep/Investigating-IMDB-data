@@ -1,0 +1,845 @@
+movie;openinggross;theathers;runtimeMinutes;genres;director_identifier;primaryProfession;runtime_dummy;director_count;directed_above_median
+Spider-Man: No Way Home;260138569;4,336;148;Action,Adventure,Fantasy;nm1218281;director,producer,writer;1;3;1
+Star Wars: Episode VII - The Force Awakens;247966675;4,134;138;Action,Adventure,Sci-Fi;nm0009190;producer,writer,music_department;1;6;1
+Star Wars: Episode VIII - The Last Jedi;220009584;4,232;152;Action,Adventure,Fantasy;nm0426059;producer,writer,director;1;1;0
+Jurassic World;208806270;4,274;124;Action,Adventure,Sci-Fi;nm1119880;producer,writer,director;1;2;0
+The Avengers;207438708;4,349;98;Drama,War;nm0294094;director,actor,writer;0;1;0
+Black Panther;202003951;4,020;134;Action,Adventure,Sci-Fi;nm3363032;producer,director,writer;1;2;0
+Avengers: Age of Ultron;191271109;4,276;141;Action,Adventure,Sci-Fi;nm0923736;writer,producer,director;1;1;0
+Doctor Strange in the Multiverse of Madness;187420998;4,534;126;Action,Adventure,Fantasy;nm0000600;producer,writer,actor;1;5;1
+Incredibles 2;182687905;4,410;118;Action,Adventure,Animation;nm0083348;miscellaneous,writer,director;1;3;1
+Black Panther: Wakanda Forever;181339761;4,396;161;Action,Adventure,Drama;nm3363032;producer,director,writer;1;2;0
+Star Wars: Episode IX - The Rise of Skywalker;177383864;4,406;141;Action,Adventure,Fantasy;nm0009190;producer,writer,music_department;1;6;1
+Iron Man 3;174144585;4,253;130;Action,Adventure,Sci-Fi;nm0000948;writer,actor,director;1;2;0
+Harry Potter and the Deathly Hallows: Part 2;169189427;4,375;130;Adventure,Family,Fantasy;nm0946734;director,producer,writer;1;8;1
+Batman v Superman: Dawn of Justice;166007347;4,242;151;Action,Adventure,Sci-Fi;nm0811583;director,producer,writer;1;4;1
+The Dark Knight Rises;160887295;4,404;164;Action,Drama,Thriller;nm0634240;writer,producer,director;1;6;1
+The Dark Knight;158411483;4,366;152;Action,Crime,Drama;nm0634240;writer,producer,director;1;6;1
+The Hunger Games: Catching Fire;158074286;4,163;146;Action,Adventure,Sci-Fi;nm1349376;director,producer,camera_department;1;5;1
+Rogue One: A Star Wars Story;155081681;4,157;133;Action,Adventure,Sci-Fi;nm2284484;visual_effects,director,writer;1;1;0
+The Hunger Games;152535747;4,137;142;Action,Adventure,Sci-Fi;nm0002657;writer,producer,director;1;2;0
+Spider-Man 3;151116516;4,252;139;Action,Adventure,Sci-Fi;nm0000600;producer,writer,actor;1;5;1
+Jurassic World: Fallen Kingdom;148024610;4,475;128;Action,Adventure,Sci-Fi;nm1291105;director,producer,writer;1;1;0
+Furious 7;147187040;4,004;137;Action,Crime,Thriller;nm1490123;producer,writer,director;1;5;1
+Guardians of the Galaxy Vol. 2;146510104;4,347;136;Action,Adventure,Comedy;nm0348181;writer,producer,director;1;4;1
+Jurassic World Dominion;145075625;4,676;147;Action,Adventure,Sci-Fi;nm1119880;producer,writer,director;1;2;0
+Thor: Love and Thunder;144165107;4,375;118;Action,Adventure,Comedy;nm0169806;producer,writer,actor;1;2;0
+The Twilight Saga: New Moon;142839137;4,024;130;Adventure,Drama,Fantasy;nm0919363;producer,writer,director;1;2;0
+The Twilight Saga: Breaking Dawn - Part 2;141067634;4,070;115;Adventure,Drama,Fantasy;nm0174374;director,writer,producer;1;2;0
+The Twilight Saga: Breaking Dawn - Part 1;138122261;4,061;117;Adventure,Drama,Fantasy;nm0174374;director,writer,producer;1;2;0
+Pirates of the Caribbean: Dead Man's Chest;135634554;4,133;151;Action,Adventure,Fantasy;nm0893659;director,producer,writer;1;3;1
+Avatar: The Way of Water;134100226;4,202;192;Action,Adventure,Fantasy;nm0000116;writer,producer,director;1;3;1
+The Batman;134008624;4,417;176;Action,Crime,Drama;nm0716257;producer,writer,director;1;4;1
+Suicide Squad;133682248;4,255;58;Action,Drama,Romance;nm1262881;director,writer,camera_department;0;1;0
+Deadpool;132434639;3,558;108;Action,Comedy;nm1783265;producer,writer,director;0;2;0
+Iron Man 2;128122480;4,380;124;Action,Sci-Fi;nm0269463;producer,actor,writer;1;3;1
+Top Gun: Maverick;126707459;4,735;130;Action,Drama;nm2676052;director,producer,writer;1;2;0
+Deadpool 2;125507153;4,349;119;Action,Adventure,Comedy;nm0500610;stunts,producer,actor;1;2;0
+Harry Potter and the Deathly Hallows: Part 1;125017372;4,125;146;Adventure,Family,Fantasy;nm0946734;director,producer,writer;1;8;1
+Thor: Ragnarok;122744989;4,080;130;Action,Adventure,Comedy;nm0169806;producer,writer,actor;1;2;0
+The Hunger Games: Mockingjay - Part 1;121897634;4,151;123;Action,Adventure,Sci-Fi;nm1349376;director,producer,camera_department;1;5;1
+Toy Story 4;120908065;4,575;100;Adventure,Animation,Comedy;nm2155757;actor,writer,director;0;1;0
+Guardians of the Galaxy Vol. 3;118414021;4,450;150;Action,Adventure,Comedy;nm0348181;writer,producer,director;1;4;1
+Spider-Man: Homecoming;117027503;4,348;133;Action,Adventure,Sci-Fi;nm1218281;director,producer,writer;1;3;1
+Man of Steel;116619362;4,207;85;Drama,Family,Fantasy;nm0049294;writer,director,actor;0;1;0
+Alice in Wonderland;116101023;3,728;52;Adventure,Family,Fantasy;nm0950148;director,writer,editor;0;1;0
+Spider-Man;114844116;3,615;121;Action,Adventure,Sci-Fi;nm0000600;producer,writer,actor;1;5;1
+Pirates of the Caribbean: At World's End;114732820;4,362;169;Action,Adventure,Fantasy;nm0893659;director,producer,writer;1;3;1
+Toy Story 3;110307189;4,028;103;Adventure,Animation,Comedy;nm0881279;editorial_department,editor,miscellaneous;0;1;0
+Transformers: Revenge of the Fallen;108966307;4,234;149;Action,Adventure,Sci-Fi;nm0000881;producer,director,actor;1;8;1
+Star Wars: Episode III - Revenge of the Sith;108435841;3,661;140;Action,Adventure,Fantasy;nm0000184;writer,producer,director;1;3;1
+Ant-Man and the Wasp: Quantumania;106109650;4,345;124;Action,Adventure,Comedy;nm0715636;director,producer,actor;1;3;1
+The Secret Life of Pets;104352905;4,370;87;Adventure,Animation,Comedy;nm0719208;producer,actor,director;0;1;0
+The Jungle Book;103261464;4,028;108;Action,Adventure,Family;nm0466113;director,producer,writer;0;1;0
+Wonder Woman;103251471;4,165;141;Action,Adventure,Fantasy;nm0420941;director,producer,writer;1;1;0
+X-Men: The Last Stand;102750665;3,690;104;Action,Adventure,Sci-Fi;nm0711840;producer,director,music_department;0;5;1
+Harry Potter and the Goblet of Fire;102685961;3,858;157;Adventure,Family,Fantasy;nm0001565;director,producer,executive;1;2;0
+The Hunger Games: Mockingjay - Part 2;102665981;4,175;137;Action,Adventure,Sci-Fi;nm1349376;director,producer,camera_department;1;5;1
+Indiana Jones and the Kingdom of the Crystal Skull;100137835;4,260;122;Action,Adventure;nm0000229;producer,writer,director;1;10;1
+Transformers: Age of Extinction;100038390;4,233;165;Action,Adventure,Sci-Fi;nm0000881;producer,director,actor;1;8;1
+The Fate of the Furious;98786705;4,310;136;Action,Crime,Thriller;nm0336620;director,producer,actor;1;5;1
+Iron Man;98618668;4,105;82;Drama,Film-Noir,Sport;nm0678928;director,actor,producer;0;1;0
+Transformers: Dark of the Moon;97852865;4,088;154;Action,Adventure,Sci-Fi;nm0000881;producer,director,actor;1;8;1
+Fast & Furious 6;97375245;3,658;130;Action,Adventure,Crime;nm0510912;producer,director,writer;1;6;1
+Joker;96202337;4,374;108;Comedy,Crime;nm0526265;director,editor,writer;0;1;0
+Guardians of the Galaxy;94320883;4,080;121;Action,Adventure,Comedy;nm0348181;writer,producer,director;1;4;1
+Justice League;93842239;4,051;120;Action,Adventure,Fantasy;nm0811583;director,producer,writer;1;4;1
+Harry Potter and the Prisoner of Azkaban;93687367;3,855;142;Adventure,Family,Fantasy;nm0190859;producer,writer,director;1;1;0
+Godzilla;93188384;3,952;96;Horror,Sci-Fi;nm0393094;director,writer,assistant_director;0;1;0
+Spider-Man: Far from Home;92579212;4,634;129;Action,Adventure,Comedy;nm1218281;director,producer,writer;1;3;1
+The Amazing Spider-Man 2;91608337;4,324;142;Action,Adventure,Sci-Fi;nm1989536;producer,director,writer;1;2;0
+Aladdin;91500929;4,476;96;Adventure,Comedy,Fantasy;nm0179278;writer,director,soundtrack;0;1;0
+It Chapter Two;91062152;4,570;169;Drama,Fantasy,Horror;nm0615592;producer,director,writer;1;1;0
+X-Men: Days of Future Past;90823660;3,996;132;Action,Adventure,Sci-Fi;nm0001741;producer,director,actor;1;7;1
+Inside Out;90440272;3,946;97;Comedy,Crime,Thriller;nm0240439;director,writer,assistant_director;0;1;0
+Harry Potter and the Sorcerer's Stone;90294621;3,672;152;Adventure,Family,Fantasy;nm0001060;producer,writer,director;1;4;1
+Pirates of the Caribbean: On Stranger Tides;90151958;4,155;137;Action,Adventure,Fantasy;nm0551128;director,miscellaneous,producer;1;2;0
+Venom: Let There Be Carnage;90033210;4,225;97;Action,Sci-Fi,Thriller;nm0785227;actor,producer,director;0;1;0
+Skyfall;88364714;3,505;143;Action,Adventure,Thriller;nm0005222;producer,director,miscellaneous;1;3;1
+Harry Potter and the Chamber of Secrets;88357488;3,682;161;Adventure,Family,Fantasy;nm0001060;producer,writer,director;1;4;1
+Spider-Man 2;88156227;4,152;127;Action,Adventure,Sci-Fi;nm0000600;producer,writer,actor;1;5;1
+Fast Five;86198765;3,644;130;Action,Crime,Thriller;nm0510912;producer,director,writer;1;6;1
+The Hangover Part II;85946294;3,615;102;Comedy;nm0680846;producer,director,writer;0;5;1
+Thor: The Dark World;85737841;3,841;112;Action,Adventure,Fantasy;nm0851930;director,producer,writer;1;2;0
+X2;85558731;3,741;134;Action,Sci-Fi,Thriller;nm0001741;producer,director,actor;1;7;1
+Fifty Shades of Grey;85171450;3,646;125;Drama,Romance,Thriller;nm0853374;director,producer,writer;1;1;0
+Doctor Strange;85058311;3,882;115;Action,Adventure,Fantasy;nm0220600;producer,director,writer;1;3;1
+X-Men Origins: Wolverine;85058003;4,099;107;Action,Sci-Fi;nm0004303;actor,director,producer;0;2;0
+The Hobbit: An Unexpected Journey;84617303;4,045;169;Adventure,Fantasy;nm0001392;producer,director,writer;1;6;1
+Solo: A Star Wars Story;84420489;4,381;135;Action,Adventure,Sci-Fi;nm0000165;producer,actor,writer;1;5;1
+The Passion of the Christ;83848082;3,043;127;Drama;nm0000154;actor,producer,director;1;1;0
+Oppenheimer;82455420;3,610;180;Biography,Drama,History;nm0634240;writer,producer,director;1;6;1
+Monsters University;82429469;4,004;104;Adventure,Animation,Comedy;nm0768959;miscellaneous,producer,art_department;0;2;0
+Black Widow;80366312;4,160;95;Drama,Film-Noir,Mystery;nm0425913;writer,producer,director;0;1;0
+Star Wars: Episode II - Attack of the Clones;80027814;3,161;142;Action,Adventure,Fantasy;nm0000184;writer,producer,director;1;3;1
+Oz the Great and Powerful;79110453;3,912;130;Adventure,Family,Fantasy;nm0000600;producer,writer,actor;1;5;1
+Harry Potter and the Half-Blood Prince;77835727;4,325;153;Action,Adventure,Family;nm0946734;director,producer,writer;1;8;1
+I Am Legend;77211321;3,606;101;Action,Drama,Horror;nm1349376;director,producer,camera_department;0;5;1
+Harry Potter and the Order of the Phoenix;77108414;4,285;138;Action,Adventure,Family;nm0946734;director,producer,writer;1;8;1
+The Da Vinci Code;77073388;3,735;149;Mystery,Thriller;nm0000165;producer,actor,writer;1;5;1
+Halloween;76221545;3,928;91;Horror,Thriller;nm0000118;soundtrack,writer,music_department;0;1;0
+Ant-Man and the Wasp;75812205;4,206;118;Action,Adventure,Comedy;nm0715636;director,producer,actor;1;3;1
+Shang-Chi and the Legend of the Ten Rings;75388688;4,300;132;Action,Adventure,Fantasy;nm2308774;producer,director,writer;1;1;0
+Star Trek;75204289;3,849;127;Action,Adventure,Sci-Fi;nm0009190;producer,writer,music_department;1;6;1
+Fantastic Beasts and Where to Find Them;74403387;4,144;132;Adventure,Family,Fantasy;nm0946734;director,producer,writer;1;8;1
+The Simpsons Movie;74036787;3,922;87;Adventure,Animation,Comedy;nm0798899;producer,animation_department,director;0;1;0
+John Wick: Chapter 4;73817950;3,855;169;Action,Crime,Thriller;nm0821432;stunts,producer,actor;1;3;1
+The Hobbit: The Desolation of Smaug;73645197;3,903;161;Adventure,Drama,Fantasy;nm0001392;producer,director,writer;1;6;1
+Austin Powers in Goldmember;73071188;3,613;94;Action,Adventure,Comedy;nm0005366;producer,director,writer;0;4;1
+The Lord of the Rings: The Return of the King;72629713;3,703;201;Action,Adventure,Drama;nm0001392;producer,director,writer;1;6;1
+Dawn of the Planet of the Apes;72611427;3,967;130;Action,Adventure,Drama;nm0716257;producer,writer,director;1;4;1
+The Lost World: Jurassic Park;72132785;3,281;129;Action,Adventure,Sci-Fi;nm0000229;producer,writer,director;1;10;1
+Sonic the Hedgehog 2;72105176;4,234;122;Action,Adventure,Comedy;nm1733778;animation_department,director,writer;1;2;0
+Eternals;71297219;4,090;156;Action,Adventure,Fantasy;nm2125482;director,writer,producer;1;1;0
+Fast & Furious;70950500;3,461;107;Action,Crime,Thriller;nm0510912;producer,director,writer;0;6;1
+300;70885301;3,103;117;Action,Drama;nm0811583;director,producer,writer;1;4;1
+Shrek Forever After;70838207;4,359;95;Adventure,Animation,Comedy;nm0593610;director,writer,actor;0;3;1
+Transformers;70502384;4,011;144;Action,Adventure,Sci-Fi;nm0000881;producer,director,actor;1;8;1
+The Incredibles;70467623;3,933;115;Action,Adventure,Animation;nm0083348;miscellaneous,writer,director;1;3;1
+Star Trek Into Darkness;70165559;3,868;132;Action,Adventure,Sci-Fi;nm0009190;producer,writer,music_department;1;6;1
+F9: The Fast Saga;70043165;4,179;143;Action,Crime,Thriller;nm0510912;producer,director,writer;1;6;1
+Twilight;69637740;3,419;99;Drama,Romance;nm0002165;director,writer,art_director;0;1;0
+Maleficent;69431298;3,948;97;Adventure,Family,Fantasy;nm0834902;visual_effects,director,producer;0;1;0
+The Bourne Ultimatum;69283690;3,660;115;Action,Mystery,Thriller;nm0339030;director,producer,writer;1;4;1
+Pitch Perfect 2;69216890;3,473;115;Comedy,Music;nm0006969;actress,producer,director;1;2;0
+The Day After Tomorrow;68743584;3,425;124;Action,Adventure,Sci-Fi;nm0000386;writer,producer,director;1;5;1
+Planet of the Apes;68532960;3,500;112;Adventure,Sci-Fi;nm0769874;director,producer,actor;1;1;0
+The Mummy Returns;68139035;3,401;130;Action,Adventure,Fantasy;nm0814085;producer,writer,director;1;4;1
+Ice Age: The Meltdown;68033544;3,964;91;Adventure,Animation,Comedy;nm0757858;director,producer,writer;0;2;0
+Bruce Almighty;67953330;3,483;101;Comedy,Fantasy;nm0001723;producer,director,actor;0;4;1
+Cinderella;67877361;3,845;52;Drama,Fantasy;nm0456804;actor,director,writer;0;1;0
+Aquaman;67873522;4,125;143;Action,Adventure,Fantasy;nm1490123;producer,writer,director;1;5;1
+Quantum of Solace;67528882;3,451;106;Action,Adventure,Mystery;nm0286975;producer,director,writer;0;3;1
+Rush Hour 2;67408222;3,118;90;Action,Comedy,Crime;nm0711840;producer,director,music_department;0;5;1
+Fast X;67017410;4,046;141;Action,Adventure,Crime;nm0504642;director,producer,actor;1;3;1
+Black Adam;67004323;4,402;125;Action,Adventure,Fantasy;nm1429471;producer,director;1;2;0
+World War Z;66411834;3,607;116;Action,Adventure,Horror;nm0286975;producer,director,writer;1;3;1
+Brave;66323594;4,164;58;Drama,Music;nm0822582;writer,director,actor;0;1;0
+X-Men: Apocalypse;65769562;4,150;144;Action,Adventure,Sci-Fi;nm0001741;producer,director,actor;1;7;1
+Thor;65723338;3,955;115;Action,Fantasy;nm0000110;actor,producer,director;1;1;0
+Teenage Mutant Ninja Turtles;65575105;3,845;93;Action,Adventure,Comedy;nm0006625;director,producer,writer;0;1;0
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;65556312;3,616;143;Adventure,Family,Fantasy;nm0011470;producer,director,writer;1;2;0
+2012;65237614;3,404;158;Action,Adventure,Sci-Fi;nm0000386;writer,producer,director;1;5;1
+Captain America: The First Avenger;65058524;3,715;124;Action,Adventure,Sci-Fi;nm0002653;director,visual_effects,producer;1;3;1
+War of the Worlds;64878725;3,908;116;Action,Adventure,Sci-Fi;nm0000229;producer,writer,director;1;10;1
+The Twilight Saga: Eclipse;64832191;4,468;124;Action,Adventure,Drama;nm1720541;director,producer,writer;1;1;0
+Star Wars: Episode I - The Phantom Menace;64820970;2,970;136;Action,Adventure,Fantasy;nm0000184;writer,producer,director;1;3;1
+WALL·E;63087526;3,992;98;Adventure,Animation,Family;nm0004056;writer,actor,producer;0;2;0
+Inception;62785337;3,792;148;Action,Adventure,Sci-Fi;nm0634240;writer,producer,director;1;6;1
+Hancock;62603879;3,965;92;Action,Comedy,Drama;nm0000916;producer,actor,writer;0;2;0
+Sherlock Holmes;62304277;3,626;116;Crime,Mystery;nm0077928;miscellaneous,director,writer;1;1;0
+Fantastic Beasts: The Crimes of Grindelwald;62163104;4,163;134;Adventure,Family,Fantasy;nm0946734;director,producer,writer;1;8;1
+Hulk;62128420;3,660;138;Action,Sci-Fi;nm0000487;director,producer,writer;1;2;0
+The Lord of the Rings: The Two Towers;62007528;3,622;179;Action,Adventure,Drama;nm0001392;producer,director,writer;1;6;1
+The Amazing Spider-Man;62004688;4,318;136;Action,Adventure,Sci-Fi;nm1989536;producer,director,writer;1;2;0
+Mission: Impossible - Fallout;61236534;4,386;147;Action,Adventure,Thriller;nm0003160;writer,producer,director;1;3;1
+Clash of the Titans;61235105;3,777;118;Action,Adventure,Family;nm0204471;camera_department,director,writer;1;1;0
+Transformers: Rise of the Beasts;61045464;3,678;127;Action,Adventure,Sci-Fi;nm4023702;director,producer,writer;1;2;0
+Kong: Skull Island;61025472;3,846;118;Action,Adventure,Fantasy;nm3611349;director,producer,writer;1;1;0
+Indiana Jones and the Dial of Destiny;60368101;4,600;154;Action,Adventure,Sci-Fi;nm0003506;producer,director,writer;1;3;1
+Straight Outta Compton;60200180;2,757;147;Biography,Drama,History;nm0336620;director,producer,actor;1;5;1
+Signs;60117080;3,264;106;Drama,Mystery,Sci-Fi;nm0796117;producer,director,writer;0;4;1
+Fast & Furious Presents: Hobbs & Shaw;60038950;4,253;137;Action,Adventure,Thriller;nm0500610;stunts,producer,actor;1;2;0
+Star Trek Beyond;59253211;3,928;122;Action,Adventure,Sci-Fi;nm0510912;producer,director,writer;1;6;1
+Jumanji: The Next Level;59251543;4,227;123;Action,Adventure,Comedy;nm0440458;producer,director,actor;1;3;1
+Jason Bourne;59215365;4,026;123;Action,Thriller;nm0339030;director,producer,writer;1;4;1
+Pearl Harbor;59078912;3,214;183;Action,Drama,History;nm0000881;producer,director,actor;1;8;1
+Creed III;58370007;4,007;116;Drama,Sport;nm0430107;actor,producer,director;1;1;0
+Fantastic Four: Rise of the Silver Surfer;58051684;3,959;92;Action,Adventure,Fantasy;nm1103162;director,producer,actor;0;6;1
+Sonic the Hedgehog;58018348;4,167;99;Action,Adventure,Comedy;nm1733778;animation_department,director,writer;0;2;0
+Mission: Impossible II;57845297;3,653;123;Action,Adventure,Thriller;nm0000247;director,producer,writer;1;2;0
+Ant-Man;57225526;3,856;117;Action,Comedy,Sci-Fi;nm0715636;director,producer,actor;1;3;1
+Sex and the City;57038404;3,285;145;Comedy,Drama,Romance;nm0455078;producer,writer,director;1;2;0
+John Wick: Chapter 3 - Parabellum;56818067;3,850;130;Action,Crime,Thriller;nm0821432;stunts,producer,actor;1;3;1
+War for the Planet of the Apes;56262929;4,022;140;Action,Adventure,Drama;nm0716257;producer,writer,director;1;4;1
+Valentine's Day;56260707;3,665;95;Comedy,Fantasy,Romance;nm0657239;assistant_director,director,actor;0;1;0
+Snow White and the Huntsman;56217700;3,773;127;Action,Adventure,Drama;nm2782185;director,writer,producer;1;1;0
+Charlie and the Chocolate Factory;56178450;3,770;115;Adventure,Comedy,Family;nm0000318;producer,miscellaneous,director;1;5;1
+Fantastic Four;56061504;3,602;106;Action,Adventure,Fantasy;nm1103162;director,producer,actor;0;6;1
+Gravity;55785112;3,575;83;Drama;nm1644451;director,editorial_department,actor;0;1;0
+The Karate Kid;55665805;3,663;126;Action,Drama,Family;nm0000814;director,editor,producer;1;1;0
+Mission: Impossible - Rogue Nation;55520089;3,956;131;Action,Adventure,Thriller;nm0003160;writer,producer,director;1;3;1
+The Incredible Hulk;55414050;3,505;112;Action,Adventure,Sci-Fi;nm0504642;director,producer,actor;1;3;1
+No Time to Die;55225007;4,407;95;Comedy;nm0025347;director,actor,writer;0;1;0
+Watchmen;55214334;3,611;162;Action,Drama,Mystery;nm0811583;director,producer,writer;1;4;1
+X-Men: First Class;55101604;3,641;131;Action,Sci-Fi;nm0891216;producer,director,writer;1;3;1
+How the Grinch Stole Christmas;55082330;3,127;104;Comedy,Family,Fantasy;nm0000165;producer,actor,writer;0;5;1
+The Flash;55043679;4,234;50;Drama;nm0185714;director,writer,cinematographer;0;2;0
+The Chronicles of Narnia: Prince Caspian;55034805;3,929;150;Action,Adventure,Family;nm0011470;producer,director,writer;1;2;0
+How to Train Your Dragon: The Hidden World;55022245;4,259;104;Action,Adventure,Animation;nm0213450;writer,art_department,animation_department;0;2;0
+Austin Powers: The Spy Who Shagged Me;54917604;3,312;95;Action,Adventure,Comedy;nm0005366;producer,director,writer;0;4;1
+Rise of the Planet of the Apes;54806191;3,648;105;Action,Drama,Sci-Fi;nm1012501;producer,director,writer;0;1;0
+The Hobbit: The Battle of the Five Armies;54724334;3,875;144;Adventure,Fantasy;nm0001392;producer,director,writer;1;6;1
+G.I. Joe: The Rise of Cobra;54713046;4,007;118;Action,Adventure,Sci-Fi;nm0814085;producer,writer,director;1;4;1
+Mission: Impossible - Dead Reckoning Part One;54688347;4,327;163;Action,Adventure,Thriller;nm0003160;writer,producer,director;1;3;1
+Men in Black 3;54592779;4,248;106;Action,Adventure,Comedy;nm0001756;producer,director,cinematographer;0;5;1
+San Andreas;54588173;3,777;114;Action,Adventure,Thriller;nm0679031;producer,writer,director;1;2;0
+X-Men;54471475;3,025;104;Action,Adventure,Sci-Fi;nm0001741;producer,director,actor;0;7;1
+Ted;54415205;3,239;85;Comedy;nm0253990;actor,director,writer;0;1;0
+Pokémon: Detective Pikachu;54365242;4,202;104;Action,Adventure,Comedy;nm1224299;writer,director,producer;0;2;0
+The Martian;54308575;3,831;144;Adventure,Drama,Sci-Fi;nm0000631;producer,director,production_designer;1;4;1
+Night at the Museum: Battle of the Smithsonian;54173286;4,096;105;Adventure,Comedy,Family;nm0506613;producer,director,actor;0;5;1
+Scooby-Doo;54155312;3,447;89;Adventure,Comedy,Family;nm0331532;editor,director,editorial_department;0;5;1
+The Nun;53807379;3,876;140;Drama;nm0729626;director,writer,actor;1;1;0
+Cars 3;53688680;4,256;102;Adventure,Animation,Comedy;nm0270263;art_department,animation_department,miscellaneous;0;1;0
+Shazam!;53505326;4,217;132;Action,Adventure,Comedy;nm2497546;director,writer,actor;1;3;1
+Green Lantern;53174303;3,816;114;Action,Adventure,Sci-Fi;nm0132709;director,producer,actor;1;3;1
+The Lego Batman Movie;53003468;4,088;104;Action,Adventure,Animation;nm0003021;director,producer,editor;0;1;0
+Batman Forever;52784433;2,842;121;Action,Adventure;nm0001708;director,writer,producer;1;2;0
+Superman Returns;52535096;4,065;154;Action,Adventure,Sci-Fi;nm0001741;producer,director,actor;1;7;1
+The Bourne Supremacy;52521865;3,165;108;Action,Mystery,Thriller;nm0339030;director,producer,writer;0;4;1
+The Divergent Series: Insurgent;52263680;3,875;119;Action,Adventure,Sci-Fi;nm0777881;director,writer,soundtrack;1;4;1
+I, Robot;52179887;3,420;115;Action,Mystery,Sci-Fi;nm0001639;director,producer,writer;1;2;0
+Men in Black II;52148751;3,557;88;Action,Adventure,Comedy;nm0001756;producer,director,cinematographer;0;5;1
+Van Helsing;51748040;3,575;131;Action,Adventure,Fantasy;nm0814085;producer,writer,director;1;4;1
+8 Mile;51240555;2,470;110;Drama,Music;nm0000436;director,producer,writer;0;1;0
+Men in Black;51068455;3,020;98;Action,Adventure,Comedy;nm0001756;producer,director,cinematographer;0;5;1
+Bohemian Rhapsody;51061119;4,000;134;Biography,Drama,Music;nm0001741;producer,director,actor;1;7;1
+Prometheus;51050101;3,396;130;Drama,Family,Fantasy;nm0365912;writer,director;1;1;0
+Wanted;50927085;3,175;107;Action,Drama,Romance;nm0275034;director,writer,editor;0;1;0
+Jurassic Park III;50771645;3,434;92;Action,Adventure,Sci-Fi;nm0002653;director,visual_effects,producer;0;3;1
+The Village;50746142;3,730;98;Drama;nm0512548;director,writer,miscellaneous;0;1;0
+Lightyear;50577961;4,255;105;Action,Adventure,Animation;nm0533691;animation_department,actor,director;0;1;0
+Dunkirk;50513488;3,720;135;Action,Drama,History;nm0635554;director,editor,producer;1;1;0
+2 Fast 2 Furious;50472480;3,408;107;Action,Crime,Thriller;nm0005436;producer,writer,director;0;2;0
+Jackass 3D;50353641;3,081;94;Action,Comedy,Documentary;nm0871860;writer,producer,director;0;5;1
+Mr. & Mrs. Smith;50342878;3,424;95;Comedy,Romance;nm0000033;director,producer,writer;0;1;0
+Rush Hour 3;50237000;3,778;91;Action,Comedy,Crime;nm0711840;producer,director,music_department;0;5;1
+Independence Day;50228264;2,882;87;Drama;nm0744794;director,producer,writer;0;1;0
+A Quiet Place;50203562;3,508;80;Documentary;nm5123883;director,writer,assistant_director;0;1;0
+The Boss Baby;50198902;3,773;97;Adventure,Animation,Comedy;nm0569891;writer,actor,animation_department;0;2;0
+The Great Gatsby;50085185;3,535;80;Drama;nm0107543;director,writer,actor;0;1;0
+Scary Movie 3;49700000;3,505;84;Comedy;nm0001878;writer,producer,director;0;2;0
+Taken 2;49514769;3,661;92;Action,Crime,Thriller;nm0576298;director,writer,assistant_director;0;2;0
+How to Train Your Dragon 2;49451322;4,253;102;Action,Adventure,Animation;nm0213450;writer,art_department,animation_department;0;2;0
+Halloween Kills;49404980;3,705;105;Action,Horror,Thriller;nm0337773;producer,director,writer;0;3;1
+Wreck-It Ralph;49038712;3,752;101;Adventure,Animation,Comedy;nm0601781;miscellaneous,director,producer;0;1;0
+Neighbors;49033915;3,279;50;Comedy,Drama;nm0186345;actor,director,writer;0;1;0
+Alvin and the Chipmunks: The Squeakquel;48875415;3,700;88;Adventure,Animation,Comedy;nm0858525;actress,director,producer;0;1;0
+Tangled;48767052;3,603;95;Drama;nm1369904;producer,director,writer;0;1;0
+Batman Begins;48745440;3,858;140;Action,Crime,Drama;nm0634240;writer,producer,director;1;6;1
+Hotel Transylvania 2;48464322;3,754;73;Adult;nm0211487;director,producer,cinematographer;0;2;0
+The Fault in Our Stars;48002523;3,173;126;Drama,Romance;nm1837748;writer,producer,director;1;1;0
+Godzilla: King of the Monsters;47776293;4,108;132;Action,Adventure,Fantasy;nm1002424;writer,director,actor;1;1;0
+Mission: Impossible III;47743273;4,054;126;Action,Adventure,Thriller;nm0009190;producer,writer,music_department;1;6;1
+Lara Croft: Tomb Raider;47735743;3,308;100;Action,Adventure,Fantasy;nm0922346;director,producer,actor;0;3;1
+Kung Fu Panda 2;47656302;3,925;90;Action,Adventure,Animation;nm0950775;art_department,animation_department,director;0;1;0
+The Longest Yard;47606480;3,634;121;Comedy,Crime,Drama;nm0000736;director,assistant_director,producer;1;1;0
+A Quiet Place Part II;47547231;3,726;97;Drama,Horror,Sci-Fi;nm1024677;actor,producer,director;0;1;0
+Interstellar;47510360;3,561;169;Adventure,Drama,Sci-Fi;nm0634240;writer,producer,director;1;6;1
+Madagascar;47224594;4,131;50;Drama;nm0702148;director,writer,actor;0;1;0
+The Lord of the Rings: The Fellowship of the Ring;47211490;3,359;178;Action,Adventure,Drama;nm0001392;producer,director,writer;1;6;1
+Die Another Day;47072040;3,314;133;Action,Adventure,Thriller;nm0848414;director,assistant_director,sound_department;1;1;0
+Talladega Nights: The Ballad of Ricky Bobby;47042215;3,803;108;Comedy,Sport;nm0570912;producer,writer,director;0;5;1
+Jurassic Park;47026828;2,404;127;Action,Adventure,Sci-Fi;nm0000229;producer,writer,director;1;10;1
+Troy;46865412;3,411;163;Drama;nm0000583;director,producer,writer;1;4;1
+Pirates of the Caribbean: The Curse of the Black Pearl;46630690;3,269;143;Action,Adventure,Fantasy;nm0893659;director,producer,writer;1;3;1
+Fifty Shades Darker;46607250;3,710;118;Drama,Romance,Thriller;nm0001226;director,writer,producer;1;2;0
+Bad Boys II;46522560;3,186;147;Action,Comedy,Crime;nm0000881;producer,director,actor;1;8;1
+Ice Age;46312454;3,316;115;Drama;nm0951731;director,writer,actor;1;1;0
+Angels & Demons;46204168;3,527;138;Action,Mystery,Thriller;nm0000165;producer,actor,writer;1;5;1
+Meet the Fockers;46120980;3,518;115;Comedy,Romance;nm0005366;producer,director,writer;1;4;1
+Ghostbusters;46018755;3,963;105;Action,Comedy,Fantasy;nm0718645;producer,miscellaneous,director;0;2;0
+Megamind;46016833;3,944;95;Action,Animation,Comedy;nm0569891;writer,actor,animation_department;0;2;0
+Batman Returns;45687711;2,644;126;Action,Crime,Fantasy;nm0000318;producer,miscellaneous,director;1;5;1
+Mission: Impossible;45436830;3,012;110;Action,Adventure,Thriller;nm0000361;director,writer,producer;0;2;0
+Mad Max: Fury Road;45428128;3,702;120;Action,Adventure,Sci-Fi;nm0004306;producer,writer,director;1;1;0
+The Meg;45402195;4,118;113;Action,Horror,Sci-Fi;nm0005509;producer,director,writer;1;3;1
+Ghost Rider;45388836;3,619;110;Action,Fantasy,Thriller;nm0425756;writer,director,producer;0;2;0
+American Pie 2;45117985;3,063;108;Comedy;nm0736930;assistant_director,producer,director;0;1;0
+300: Rise of an Empire;45038460;3,470;102;Action,Drama,War;nm1729171;director,producer;0;1;0
+The Hangover;44979319;3,269;100;Comedy;nm0680846;producer,director,writer;0;5;1
+National Treasure: Book of Secrets;44783772;3,832;124;Action,Adventure,Mystery;nm0005509;producer,director,writer;1;3;1
+Transformers: The Last Knight;44680073;4,069;154;Action,Adventure,Sci-Fi;nm0000881;producer,director,actor;1;8;1
+xXx;44506103;3,374;124;Action,Adventure,Thriller;nm0003418;producer,director,actor;1;2;0
+Nope;44366910;3,785;130;Horror,Mystery,Sci-Fi;nm1443502;actor,writer,producer;1;2;0
+Alvin and the Chipmunks;44307417;3,475;92;Adventure,Animation,Comedy;nm0384722;writer,producer,director;0;1;0
+The Peanuts Movie;44213073;3,897;88;Adventure,Animation,Comedy;nm0553942;director,miscellaneous,art_department;0;1;0
+Hotel Transylvania 3: Summer Vacation;44076225;4,267;97;Adventure,Animation,Comedy;nm0850733;producer,writer,director;0;1;0
+Terminator 3: Rise of the Machines;44041440;3,504;109;Action,Sci-Fi;nm0609236;director,producer,writer;0;1;0
+TRON: Legacy;44026211;3,451;125;Action,Adventure,Sci-Fi;nm2676052;director,producer,writer;1;2;0
+Uncharted;44010155;4,275;79;Horror;nm1459683;director,actor,producer;0;1;0
+Ghostbusters: Afterlife;44008406;4,315;124;Adventure,Comedy,Fantasy;nm0718646;producer,director,writer;1;1;0
+Lucy;43899340;3,173;93;Drama,Romance;nm0934629;writer,director,actor;0;1;0
+American Gangster;43565135;3,054;157;Biography,Crime,Drama;nm0000631;producer,director,production_designer;1;4;1
+The Mummy;43369635;3,210;73;Fantasy,Horror;nm0005713;cinematographer,director,camera_department;0;1;0
+Hitch;43142214;3,575;118;Comedy,Romance;nm0855035;producer,director,writer;1;2;0
+Batman & Robin;42872605;2,934;125;Action,Sci-Fi;nm0001708;director,writer,producer;1;2;0
+Terminator Salvation;42558390;3,530;115;Action,Adventure,Sci-Fi;nm0629334;producer,miscellaneous,director;1;3;1
+Hotel Transylvania;42522194;3,349;74;Adult;nm0211487;director,producer,cinematographer;0;2;0
+Nutty Professor II: The Klumps;42518830;3,242;106;Comedy,Romance,Sci-Fi;nm0781842;director,producer,writer;0;4;1
+Scary Movie;42346669;2,912;82;Comedy,Horror,Thriller;nm0259032;director,writer,producer;0;1;0
+Anger Management;42220847;3,551;106;Comedy;nm0781842;director,producer,writer;0;4;1
+Fantastic Beasts: The Secrets of Dumbledore;42151256;4,208;142;Adventure,Family,Fantasy;nm0946734;director,producer,writer;1;8;1
+High School Musical 3: Senior Year;42030184;3,623;112;Comedy,Drama,Family;nm0650905;director,miscellaneous,producer;1;2;0
+The Conjuring;41855326;2,903;112;Horror,Mystery,Thriller;nm1490123;producer,writer,director;1;5;1
+Ready Player One;41764050;4,234;140;Action,Adventure,Sci-Fi;nm0000229;producer,writer,director;1;10;1
+The Hangover Part III;41671198;3,555;100;Comedy,Crime;nm0680846;producer,director,writer;0;5;1
+Ocean's Eight;41607378;4,145;110;Action,Comedy,Crime;nm0002657;writer,producer,director;0;2;0
+Big Daddy;41536370;3,027;68;Adventure,Crime,Drama;nm0386973;producer,writer,director;0;1;0
+Ride Along;41516170;2,663;99;Action,Comedy,Crime;nm1103162;director,producer,actor;0;6;1
+Grown Ups 2;41508572;3,491;101;Comedy;nm0240797;actor,director,producer;0;5;1
+The Perfect Storm;41325042;3,407;130;Action,Adventure,Drama;nm0000583;director,producer,writer;1;4;1
+Deep Impact;41152375;3,156;120;Action,Drama,Sci-Fi;nm0001460;producer,director,script_department;1;1;0
+Once Upon a Time in Hollywood;41082018;3,659;161;Comedy,Drama;nm0000233;writer,actor,producer;1;5;1
+Shutter Island;41062440;2,991;138;Mystery,Thriller;nm0000217;producer,director,actor;1;2;0
+Twister;41059405;2,414;93;Comedy,Drama;nm0021899;director,writer,producer;0;1;0
+Independence Day: Resurgence;41039944;4,130;120;Action,Adventure,Sci-Fi;nm0000386;writer,producer,director;1;5;1
+Madea Goes to Jail;41030947;2,032;103;Comedy,Crime,Drama;nm1347153;writer,director,producer;0;11;1
+Dune;41011174;4,125;137;Action,Adventure,Sci-Fi;nm0000186;writer,director,producer;1;1;0
+Paranormal Activity 2;40678424;3,216;91;Horror,Mystery;nm0931095;director,writer,actor;0;1;0
+Friday the 13th;40570365;3,105;50;Drama;nm0154352;director,actor,writer;0;2;0
+Grown Ups;40506562;3,534;102;Comedy;nm0240797;actor,director,producer;0;5;1
+G.I. Joe: Retaliation;40501814;3,719;110;Action,Adventure,Sci-Fi;nm0160840;producer,writer,director;0;4;1
+Batman;40489746;2,194;260;Action,Crime,Family;nm0385171;director,writer,assistant_director;1;1;0
+The Mummy: Tomb of the Dragon Emperor;40457770;3,760;112;Action,Adventure,Fantasy;nm0003418;producer,director,actor;1;2;0
+The Conjuring 2;40406314;3,343;134;Horror,Mystery,Thriller;nm1490123;producer,writer,director;1;5;1
+Glass;40328920;3,841;93;Thriller;nm0447960;director,writer,producer;0;1;0
+The Last Airbender;40325019;3,169;103;Action,Adventure,Family;nm0796117;producer,director,writer;0;4;1
+Daredevil;40310419;3,471;103;Action,Crime;nm0425756;writer,director,producer;0;2;0
+Power Rangers;40300288;3,693;124;Action,Adventure,Fantasy;nm2410311;director,producer,writer;1;1;0
+Insidious: Chapter 2;40272103;3,049;106;Horror,Mystery,Thriller;nm1490123;producer,writer,director;0;5;1
+Scary Movie 4;40222875;3,602;83;Comedy;nm0001878;writer,producer,director;0;2;0
+Safe House;40172720;3,119;112;Drama,Thriller;nm0821451;writer,director,producer;1;1;0
+Charlie's Angels;40128550;3,037;98;Action,Adventure,Comedy;nm0629334;producer,miscellaneous,director;0;3;1
+Cloverfield;40058229;3,411;85;Action,Adventure,Horror;nm0716257;producer,writer,director;0;4;1
+Halloween Ends;40050355;3,901;111;Horror,Thriller;nm0337773;producer,director,writer;0;3;1
+Chicken Little;40049778;3,654;81;Adventure,Animation,Comedy;nm0227540;visual_effects,art_department,writer;0;1;0
+Split;40010975;3,038;85;Comedy,Drama,Mystery;nm0789651;actor,editor,director;0;1;0
+50 First Dates;39852237;3,591;99;Comedy,Drama,Romance;nm0781842;director,producer,writer;0;4;1
+Wild Hogs;39699023;3,287;100;Action,Adventure,Comedy;nm0065608;director,producer,writer;0;1;0
+Sherlock Holmes: A Game of Shadows;39637079;3,703;129;Action,Adventure,Mystery;nm0005363;writer,director,producer;1;1;0
+The Waterboy;39414071;2,664;90;Comedy,Sport;nm0178997;director,actor,producer;0;1;0
+Rio 2;39327869;3,948;101;Adventure,Animation,Comedy;nm0757858;director,producer,writer;0;2;0
+Rio;39225962;3,826;77;Crime,Drama,Romance;nm0103975;director,assistant_director,production_manager;0;1;0
+Taken 3;39201657;3,594;108;Action,Crime,Thriller;nm0576298;director,writer,assistant_director;0;2;0
+The Good Dinosaur;39155217;3,749;93;Adventure,Animation,Comedy;nm0812307;actor,animation_department,art_department;0;2;0
+Ocean's Twelve;39153380;3,290;125;Crime,Thriller;nm0001752;producer,director,cinematographer;1;4;1
+The Grudge;39128715;3,245;100;Adventure,Drama;nm1251937;writer,director,producer;0;1;0
+Magic Mike;39127170;2,930;110;Comedy,Drama;nm0001752;producer,director,cinematographer;0;4;1
+Onward;39119861;4,310;102;Action,Adventure,Animation;nm0768959;miscellaneous,producer,art_department;0;2;0
+The Heat;39115043;3,181;67;Comedy,Drama,Romance;nm7446519;producer,director,actor;0;1;0
+Kingsman: The Golden Circle;39023010;4,003;141;Action,Adventure,Comedy;nm0891216;producer,director,writer;1;3;1
+Morbius;39005895;4,268;104;Action,Adventure,Horror;nm1174251;director,producer,writer;0;1;0
+Daddy's Home;38740203;3,271;96;Comedy,Family;nm1890845;writer,director,producer;0;2;0
+Get Smart;38683480;3,911;110;Action,Adventure,Comedy;nm0781842;director,producer,writer;0;4;1
+Fifty Shades Freed;38560195;3,768;105;Drama,Romance,Thriller;nm0001226;director,writer,producer;0;2;0
+You Don't Mess with the Zohan;38531374;3,462;113;Action,Comedy;nm0240797;actor,director,producer;1;5;1
+The Legend of Tarzan;38527856;3,561;110;Action,Adventure,Drama;nm0946734;director,producer,writer;0;8;1
+The Cat in the Hat;38329160;3,464;82;Adventure,Comedy,Family;nm0919514;production_designer,director,art_director;0;1;0
+Alien vs. Predator;38291056;3,395;101;Action,Adventure,Horror;nm0027271;writer,producer,director;0;4;1
+The Bourne Legacy;38142825;3,745;135;Action,Adventure,Thriller;nm0006904;writer,producer,director;1;1;0
+Ocean's Eleven;38107822;3,075;127;Comedy,Crime,Music;nm0587277;director,writer,producer;1;1;0
+Rango;38079323;3,917;66;Adventure;nm0774325;director,cinematographer,camera_department;0;1;0
+Inglourious Basterds;38054676;3,165;153;Adventure,Drama,War;nm0000233;writer,actor,producer;1;5;1
+Ace Ventura: When Nature Calls;37804076;2,652;90;Adventure,Comedy,Crime;nm0644203;writer,producer,actor;0;1;0
+Charlie's Angels: Full Throttle;37634221;3,459;106;Action,Adventure,Comedy;nm0629334;producer,miscellaneous,director;0;3;1
+Hop;37543710;3,579;106;Comedy,Drama;nm0822012;producer,director,writer;0;1;0
+Gone Girl;37513109;3,014;149;Drama,Mystery,Thriller;nm0000399;producer,director,writer;1;4;1
+District 9;37354308;3,049;112;Action,Sci-Fi,Thriller;nm0088955;director,writer,visual_effects;1;1;0
+Pacific Rim;37285325;3,275;131;Action,Adventure,Sci-Fi;nm0868219;writer,producer,director;1;4;1
+Mr. Deeds;37162787;3,231;96;Comedy,Romance;nm0109359;writer,producer,actor;0;1;0
+Annabelle;37134255;3,185;99;Horror,Mystery,Thriller;nm0502954;cinematographer,camera_department,director;0;1;0
+Air Force One;37132505;2,919;124;Action,Drama,Thriller;nm0000583;director,producer,writer;1;4;1
+S.W.A.T.;37062535;3,202;117;Action,Adventure,Crime;nm0424800;actor,director,producer;1;1;0
+Oblivion;37054485;3,783;94;Adventure,Comedy,Crime;nm0006787;director,producer,soundtrack;0;1;0
+Maleficent: Mistress of Evil;36948713;3,790;119;Adventure,Family,Fantasy;nm1461392;director,producer,writer;1;1;0
+Red Dragon;36540945;3,357;115;Crime;nm0543647;director,producer,writer;1;1;0
+Cowboys & Aliens;36431290;3,750;119;Action,Drama,Sci-Fi;nm0269463;producer,actor,writer;1;3;1
+Freddy vs. Jason;36400000;3,014;97;Action,Horror;nm0950553;director,producer,writer;0;1;0
+Interview with the Vampire: The Vampire Chronicles;36389705;2,604;123;Drama,Fantasy,Horror;nm0001403;writer,producer,director;1;1;0
+Marley & Me;36357586;3,480;111;Drama,Family;nm0291205;production_manager,producer,director;0;2;0
+Kingsman: The Secret Service;36206331;3,204;129;Action,Adventure,Comedy;nm0891216;producer,director,writer;1;3;1
+Jumanji: Welcome to the Jungle;36169328;3,765;119;Action,Adventure,Comedy;nm0440458;producer,director,actor;1;3;1
+Alien: Covenant;36160621;3,761;122;Horror,Sci-Fi,Thriller;nm0000631;producer,director,production_designer;1;4;1
+Ocean's Thirteen;36133403;3,565;122;Crime,Thriller;nm0001752;producer,director,cinematographer;1;4;1
+The Scorpion King;36075875;3,444;92;Action,Adventure,Fantasy;nm0751080;director,producer,writer;0;2;0
+The Equalizer 2;36011640;3,388;121;Action,Crime,Thriller;nm0298807;producer,director,actor;1;5;1
+10,000 BC;35867488;3,410;109;Action,Adventure,Drama;nm0000386;writer,producer,director;0;5;1
+Rampage;35753093;4,101;98;Adventure,Romance;nm0439597;director,assistant_director,writer;0;1;0
+Minority Report;35677125;3,001;145;Action,Crime,Mystery;nm0000229;producer,writer,director;1;10;1
+Sweet Home Alabama;35648740;3,293;108;Comedy,Romance;nm0855035;producer,director,writer;0;2;0
+The Smurfs;35611637;3,395;103;Adventure,Animation,Comedy;nm0331532;editor,director,editorial_department;0;5;1
+Creed II;35574710;3,441;130;Action,Drama,Sport;nm4023702;director,producer,writer;1;2;0
+Battle Los Angeles;35573187;3,417;116;Action,Adventure,Sci-Fi;nm0509448;producer,director,writer;1;2;0
+The Other Guys;35543162;3,651;107;Action,Comedy,Crime;nm0570912;producer,writer,director;0;5;1
+Central Intelligence;35535250;3,508;107;Action,Comedy,Crime;nm1098493;director,producer,writer;0;3;1
+The World Is Not Enough;35519007;3,163;128;Action,Adventure,Thriller;nm0000776;director,producer,miscellaneous;1;2;0
+Super 8;35451168;3,379;112;Action,Mystery,Sci-Fi;nm0009190;producer,writer,music_department;1;6;1
+Teenage Mutant Ninja Turtles: Out of the Shadows;35316382;4,071;112;Action,Adventure,Comedy;nm1757777;director,camera_department,miscellaneous;1;1;0
+Sing;35258145;4,022;98;Drama,Musical;nm0059956;soundtrack,composer,music_department;0;1;0
+Ride Along 2;35243095;3,175;102;Action,Comedy,Crime;nm1103162;director,producer,actor;0;6;1
+National Treasure;35142554;3,017;131;Action,Adventure,Mystery;nm0005509;producer,director,writer;1;3;1
+The Ring Two;35065237;3,332;110;Horror,Mystery;nm0620378;director,writer,producer;0;1;0
+Runaway Bride;35055556;3,158;116;Comedy,Romance;nm0005190;writer,producer,actor;1;3;1
+Sully;35028301;3,525;96;Biography,Drama;nm0000142;actor,producer,director;0;1;0
+Jungle Cruise;35018731;4,310;127;Action,Adventure,Comedy;nm1429471;producer,director;1;2;0
+Annabelle: Creation;35006404;3,502;109;Horror,Mystery,Thriller;nm2497546;director,writer,actor;0;3;1
+Mamma Mia! Here We Go Again;34952180;3,317;114;Comedy,Musical,Romance;nm0662530;writer,director,producer;1;1;0
+The Expendables;34825135;3,270;89;Action,Adventure,War;nm0379391;director,producer,writer;0;1;0
+Gladiator;34819017;2,938;101;Action,Drama,Sport;nm0380705;writer,director,miscellaneous;0;1;0
+Scream 3;34713342;3,467;116;Horror,Mystery;nm0000127;writer,producer,director;1;3;1
+The Magnificent Seven;34703397;3,674;128;Action,Adventure,Drama;nm0836328;director,producer,editor;1;1;0
+The Equalizer 3;34604229;3,965;109;Action,Crime,Thriller;nm0298807;producer,director,actor;0;5;1
+Identity Thief;34551025;3,141;111;Comedy,Crime,Drama;nm1164861;producer,director,miscellaneous;0;3;1
+Hellboy II: The Golden Army;34539115;3,204;120;Action,Adventure,Fantasy;nm0868219;writer,producer,director;1;4;1
+Enchanted;34440317;3,730;96;Comedy;nm0911631;actor,director,producer;0;1;0
+Couples Retreat;34286740;3,000;113;Comedy;nm0082526;producer,actor,director;1;1;0
+I Now Pronounce You Chuck & Larry;34233750;3,495;115;Comedy,Romance;nm0240797;actor,director,producer;1;5;1
+Ransom;34216088;2,676;58;Action,Adventure,Crime;nm0782707;director,writer,producer;0;1;0
+Norbit;34195434;3,136;103;Comedy,Romance;nm0005367;producer,actor,writer;0;1;0
+The Equalizer;34137828;3,236;132;Action,Crime,Thriller;nm0298807;producer,director,actor;1;5;1
+The Blind Side;34119372;3,110;129;Biography,Drama,Sport;nm0359387;writer,director,producer;1;1;0
+The Lego Movie 2: The Second Part;34115335;4,303;107;Action,Adventure,Animation;nm0593610;director,writer,actor;0;3;1
+Puss in Boots;34077439;3,952;80;Adventure,Animation,Comedy;nm0944760;director,writer,art_department;0;1;0
+The Purge;34058360;2,536;57;Documentary;nm1717930;producer,writer,miscellaneous;0;1;0
+Lethal Weapon 4;34048124;3,117;127;Action,Crime,Thriller;nm0001149;director,producer,actor;1;2;0
+The Devil Inside;33732515;2,285;71;Crime;nm0654109;director,assistant_director,producer;0;1;0
+Think Like a Man;33636303;2,015;123;Comedy,Romance;nm1103162;director,producer,actor;1;6;1
+The Proposal;33627598;3,056;91;Drama,Thriller;nm0301903;director,writer,producer;0;1;0
+Saw III;33610391;3,167;108;Horror,Mystery,Thriller;nm1135423;director,producer,writer;0;3;1
+Ted 2;33507870;3,442;115;Comedy;nm0532235;writer,producer,music_department;1;1;0
+101 Dalmatians;33504025;2,794;103;Adventure,Comedy,Crime;nm0378893;producer,director,editorial_department;0;1;0
+Wrath of the Titans;33457188;3,545;99;Action,Adventure,Fantasy;nm0509448;producer,director,writer;0;2;0
+The Haunting;33435140;2,808;112;Horror;nm0936404;director,producer,editor;1;2;0
+Get Out;33377060;2,781;104;Horror,Mystery,Thriller;nm1443502;actor,writer,producer;0;2;0
+Live Free or Die Hard;33369559;3,408;128;Action,Thriller;nm0936482;producer,writer,director;1;2;0
+American Wedding;33369440;3,172;96;Comedy;nm0245888;director,producer,writer;0;1;0
+Lethal Weapon 3;33243086;2,510;118;Action,Crime,Thriller;nm0001149;director,producer,actor;1;2;0
+Hustlers;33181361;3,250;95;Comedy,Drama;nm0638189;director,writer,actor;0;1;0
+A Wrinkle in Time;33123609;3,980;109;Adventure,Drama,Family;nm1148550;writer,producer,miscellaneous;0;1;0
+Superbad;33052411;2,948;113;Comedy;nm0609549;producer,director,writer;1;1;0
+Tomorrowland;33028165;3,972;130;Action,Adventure,Family;nm0083348;miscellaneous,writer,director;1;3;1
+Insidious: The Red Door;33013036;3,188;107;Horror,Mystery,Thriller;nm0933940;actor,soundtrack,producer;0;1;0
+Birds of Prey;33010017;4,236;56;Crime,Drama,Romance;nm0185714;director,writer,cinematographer;0;2;0
+Rush Hour;33001803;2,638;98;Action,Comedy,Crime;nm0711840;producer,director,music_department;0;5;1
+Scream 2;32926342;2,663;120;Horror,Mystery;nm0000127;writer,producer,director;1;3;1
+A Nightmare on Elm Street;32902299;3,332;91;Horror;nm0000127;writer,producer,director;0;3;1
+Dark Phoenix;32828348;3,721;113;Action,Adventure,Sci-Fi;nm1334526;producer,writer,script_department;1;1;0
+Blade Runner 2049;32753122;4,058;164;Action,Drama,Mystery;nm0898288;director,writer,editor;1;2;0
+Where the Wild Things Are;32695407;3,735;101;Adventure,Drama,Family;nm0005069;producer,writer,director;0;1;0
+Due Date;32689406;3,355;95;Comedy,Drama;nm0680846;producer,director,writer;0;5;1
+The Nun II;32603336;3,728;110;Horror,Mystery,Thriller;nm1980431;director,writer,visual_effects;0;3;1
+Blade II;32528016;2,707;117;Action,Horror,Sci-Fi;nm0868219;writer,producer,director;1;4;1
+The Maze Runner;32512804;3,604;113;Action,Mystery,Sci-Fi;nm1226871;art_department,director,visual_effects;1;3;1
+Spy Kids 3: Game Over;32500000;3,344;84;Action,Adventure,Comedy;nm0001675;producer,writer,director;0;4;1
+Hannah Montana: The Movie;32324487;3,118;102;Comedy,Drama,Family;nm0155093;actor,director,writer;0;1;0
+Mr. Peabody & Sherman;32207057;3,934;92;Adventure,Animation,Comedy;nm0591450;producer,director,animation_department;0;3;1
+Immortals;32206425;3,112;110;Action,Drama,Fantasy;nm0802248;director,producer,soundtrack;0;1;0
+Wedding Crashers;32200000;2,925;119;Comedy,Romance;nm0229694;producer,director,miscellaneous;1;1;0
+Elf;32100000;3,337;97;Adventure,Comedy,Family;nm0269463;producer,actor,writer;0;3;1
+Jackass Presents: Bad Grandpa;32055177;3,336;92;Comedy;nm0871860;writer,producer,director;0;5;1
+Paul Blart: Mall Cop;31832636;3,144;91;Action,Comedy,Crime;nm0139867;director,producer;0;3;1
+Terminator 2: Judgment Day;31765506;2,274;137;Action,Sci-Fi;nm0000116;writer,producer,director;1;3;1
+Saw IV;31756764;3,183;93;Horror,Mystery,Thriller;nm1135423;director,producer,writer;0;3;1
+Saw II;31725652;2,949;93;Horror,Mystery;nm1135423;director,producer,writer;0;3;1
+G-Force;31706934;3,697;88;Action,Adventure,Comedy;nm0947087;visual_effects,director,writer;0;1;0
+Godzilla vs. Kong;31625971;3,064;113;Action,Sci-Fi,Thriller;nm1417392;director,editor,cinematographer;1;1;0
+Bad Teacher;31603106;3,049;92;Comedy,Romance;nm0440458;producer,director,actor;0;3;1
+The Truman Show;31542121;2,315;103;Comedy,Drama;nm0001837;director,writer,producer;0;2;0
+The Purge: Election Year;31515110;2,796;108;Action,Horror,Sci-Fi;nm0218621;writer,producer,director;0;2;0
+The Wolfman;31479235;3,222;103;Drama,Fantasy,Horror;nm0002653;director,visual_effects,producer;0;3;1
+Ford v Ferrari;31474958;3,528;152;Action,Biography,Drama;nm0003506;producer,director,writer;1;3;1
+Liar Liar;31423025;2,845;86;Comedy,Fantasy;nm0001723;producer,director,actor;0;4;1
+Percy Jackson & the Olympians: The Lightning Thief;31236067;3,356;118;Adventure,Family,Fantasy;nm0001060;producer,writer,director;1;4;1
+Girls Trip;31201920;2,591;122;Adventure,Comedy,Drama;nm0002700;writer,director,producer;1;3;1
+Evan Almighty;31192615;3,604;96;Comedy,Family,Fantasy;nm0001723;producer,director,actor;0;4;1
+The Sum of All Fears;31178526;3,183;124;Action,Drama,Thriller;nm0004675;writer,director,producer;1;1;0
+Home Alone 2: Lost in New York;31126882;2,222;120;Adventure,Comedy,Crime;nm0001060;producer,writer,director;1;4;1
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert;31117834;683,000;74;Documentary,Music;nm0376712;production_manager,producer,director;0;1;0
+Bringing Down the House;31101026;2,801;105;Comedy;nm0788202;producer,miscellaneous,director;0;2;0
+Four Christmases;31069826;3,310;88;Comedy,Drama,Romance;nm1164861;producer,director,miscellaneous;0;3;1
+Space Jam: A New Legacy;31053362;3,965;115;Adventure,Animation,Comedy;nm0002700;writer,director,producer;1;3;1
+Pokémon: The First Movie - Mewtwo Strikes Back;31036678;3,043;96;Action,Adventure,Animation;nm0951197;director,art_department,writer;0;1;0
+Downton Abbey;31033665;3,079;122;Drama,Romance;nm0257554;director,producer,writer;1;1;0
+Sex and the City 2;31001870;3,445;146;Comedy,Drama,Romance;nm0455078;producer,writer,director;1;2;0
+Step Brothers;30940732;3,094;98;Comedy;nm0570912;producer,writer,director;0;5;1
+Little Fockers;30833665;3,536;98;Comedy,Romance;nm0919369;producer,writer,director;0;1;0
+Star Trek: First Contact;30716131;2,812;111;Action,Adventure,Drama;nm0000408;actor,director,producer;0;2;0
+Knocked Up;30690990;2,871;129;Comedy,Romance;nm0031976;producer,writer,director;1;3;1
+The Dukes of Hazzard;30675314;3,785;104;Comedy;nm0151540;director,actor,writer;0;1;0
+Unbroken;30621445;3,131;104;Drama;nm10725766;director;0;1;0
+Brüno;30619130;2,756;81;Comedy;nm0153078;producer,writer,director;0;2;0
+Saving Private Ryan;30576104;2,463;169;Drama,War;nm0000229;producer,writer,director;1;10;1
+The Pacifier;30552694;3,131;95;Action,Comedy,Drama;nm0788202;producer,miscellaneous,director;0;2;0
+Bram Stoker's Dracula;30521679;2,491;128;Drama,Fantasy,Horror;nm0000338;producer,director,writer;1;1;0
+The Happening;30517109;2,986;101;Comedy;nm0799033;director,miscellaneous,actor;0;1;0
+Just Go with It;30514732;3,548;117;Comedy,Romance;nm0240797;actor,director,producer;1;5;1
+The Day the Earth Stood Still;30480153;3,560;92;Drama,Sci-Fi;nm0936404;director,producer,editor;0;2;0
+Dear John;30468614;2,969;111;Drama,Romance;nm0511837;director,writer;0;1;0
+The Lost City;30453269;4,253;300;Action,Adventure;nm0552228;director,writer,actor;1;1;0
+John Wick: Chapter 2;30436123;3,113;122;Action,Crime,Thriller;nm0821432;stunts,producer,actor;1;3;1
+Night at the Museum;30433781;3,685;108;Adventure,Comedy,Family;nm0506613;producer,director,actor;0;5;1
+M3GAN;30429860;3,509;102;Horror,Sci-Fi,Thriller;nm2067421;writer,director,producer;0;1;0
+Olympus Has Fallen;30373794;3,098;119;Action,Thriller;nm0298807;producer,director,actor;1;5;1
+Unbreakable;30330771;2,708;106;Drama,Mystery,Sci-Fi;nm0796117;producer,director,writer;0;4;1
+Maze Runner: The Scorch Trials;30316510;3,791;131;Action,Adventure,Sci-Fi;nm1226871;art_department,director,visual_effects;1;3;1
+The Addams Family;30300007;4,007;99;Comedy,Fantasy;nm0001756;producer,director,cinematographer;0;5;1
+America's Sweethearts;30181877;3,011;102;Comedy,Romance;nm0005387;producer,director,miscellaneous;0;2;0
+John Carter;30180188;3,749;132;Action,Adventure,Sci-Fi;nm0004056;writer,actor,producer;1;2;0
+The X Files;30138758;2,629;121;Drama,Mystery,Sci-Fi;nm0101385;producer,director,actor;1;1;0
+Django Unchained;30122888;3,010;165;Drama,Western;nm0000233;writer,actor,producer;1;5;1
+Shazam! Fury of the Gods;30111158;4,071;130;Action,Adventure,Comedy;nm2497546;director,writer,actor;1;3;1
+The Best Man Holiday;30107555;2,024;123;Comedy,Drama;nm0002700;writer,director,producer;1;3;1
+Trainwreck;30097040;3,158;125;Comedy,Drama,Romance;nm0031976;producer,writer,director;1;3;1
+Prince of Persia: The Sands of Time;30095259;3,646;116;Action,Adventure,Fantasy;nm0001565;director,producer,executive;1;2;0
+Dodgeball: A True Underdog Story;30070196;2,694;92;Comedy,Sport;nm1098493;director,producer,writer;0;3;1
+A Series of Unfortunate Events;30061756;3,620;108;Adventure,Comedy,Family;nm0797869;producer,director,writer;0;1;0
+Sleepy Hollow;30060467;3,064;105;Fantasy,Horror,Mystery;nm0000318;producer,miscellaneous,director;0;5;1
+Panic Room;30056751;3,053;112;Crime,Drama,Thriller;nm0000399;producer,director,writer;1;4;1
+The Exorcism of Emily Rose;30054300;2,981;119;Drama,Horror,Thriller;nm0220600;producer,director,writer;1;3;1
+Saw V;30053954;3,060;92;Horror,Thriller;nm0352524;production_designer,director,producer;0;1;0
+Catch Me If You Can;30053627;3,156;106;Action,Comedy,Drama;nm0814085;producer,writer,director;0;4;1
+A Christmas Carol;30051075;3,683;69;Drama,Family,Fantasy;nm0547446;director,assistant_director,producer;0;1;0
+Men in Black: International;30035838;4,224;114;Action,Adventure,Comedy;nm0336620;director,producer,actor;1;5;1
+Madea's Family Reunion;30030661;2,194;107;Comedy,Drama,Romance;nm1347153;writer,director,producer;0;11;1
+Bullet Train;30030156;4,357;152;Action,Crime,Drama;nm0766220;director,writer,assistant_director;1;1;0
+Scream;30018805;3,664;82;Horror,Mystery;nm0704434;stunts,director,actor;0;1;0
+Meg 2: The Trench;30002735;3,503;116;Action,Adventure,Horror;nm1296554;director,writer,producer;1;1;0
+The Purge: Anarchy;29816675;2,805;103;Action,Horror,Sci-Fi;nm0218621;writer,producer,director;0;2;0
+Elysium;29807393;3,284;118;Drama,War;nm0844438;script_department,writer,director;1;1;0
+Hercules;29800263;3,595;104;Adventure,Fantasy,History;nm0290371;director,writer,editor;0;1;0
+Constantine;29769098;3,006;121;Action,Fantasy,Horror;nm1349376;director,producer,camera_department;1;5;1
+What Lies Beneath;29702959;2,813;130;Drama,Horror,Mystery;nm0000709;producer,writer,director;1;5;1
+The Flintstones;29688730;2,498;91;Comedy,Family,Fantasy;nm0505152;producer,writer,director;0;1;0
+Dark Shadows;29685274;3,755;113;Comedy,Family,Fantasy;nm0000318;producer,miscellaneous,director;1;5;1
+Daddy's Home 2;29651193;3,575;100;Comedy;nm1890845;writer,director,producer;0;2;0
+Elemental;29602429;4,035;101;Adventure,Animation,Comedy;nm0812307;actor,animation_department,art_department;0;2;0
+Insidious: The Last Key;29581355;3,116;103;Horror,Mystery,Thriller;nm0733263;director,actor,writer;0;1;0
+Justin Bieber: Never Say Never;29514054;3,105;105;Documentary,Music;nm0160840;producer,writer,director;0;4;1
+Ghostbusters II;29472894;2,410;108;Action,Comedy,Fantasy;nm0718645;producer,miscellaneous,director;0;2;0
+Scooby-Doo 2: Monsters Unleashed;29438331;3,312;93;Adventure,Comedy,Family;nm0331532;editor,director,editorial_department;0;5;1
+Indiana Jones and the Last Crusade;29355021;2,327;127;Action,Adventure;nm0000229;producer,writer,director;1;10;1
+A.I. Artificial Intelligence;29352630;3,242;146;Drama,Sci-Fi;nm0000229;producer,writer,director;1;10;1
+Now You See Me;29350389;2,925;115;Crime,Mystery,Thriller;nm0504642;director,producer,actor;1;3;1
+Beverly Hills Chihuahua;29300465;3,215;91;Adventure,Comedy,Drama;nm0331532;editor,director,editorial_department;0;5;1
+Why Did I Get Married Too?;29289537;2,155;121;Comedy,Drama,Romance;nm1347153;writer,director,producer;1;11;1
+Think Like a Man Too;29241911;2,225;106;Comedy,Romance;nm1103162;director,producer,actor;0;6;1
+The Muppets;29239026;3,440;120;Adventure,Comedy,Family;nm0090386;writer,director,producer;1;2;0
+Eagle Eye;29150721;3,510;118;Action,Mystery,Thriller;nm0142286;director,producer,writer;1;2;0
+Toy Story;29140617;2,457;81;Adventure,Animation,Comedy;nm0005124;producer,writer,director;0;1;0
+The Texas Chainsaw Massacre;29100000;3,016;98;Horror;nm1197971;director,producer,writer;0;1;0
+Spy;29085719;3,711;77;Drama,Musical,Romance;nm0470463;director,production_manager,writer;0;1;0
+Terminator: Dark Fate;29033832;4,086;128;Action,Adventure,Sci-Fi;nm1783265;producer,writer,director;1;2;0
+Allegiant;29027348;3,740;120;Action,Adventure,Mystery;nm0777881;director,writer,soundtrack;1;4;1
+Doctor Dolittle;29014324;2,777;152;Adventure,Comedy,Family;nm0281507;director,producer,writer;1;1;0
+The Santa Clause 2;29008696;3,350;104;Comedy,Family,Fantasy;nm0501185;director,actor,soundtrack;0;1;0
+Jackass Number Two;29002002;3,059;92;Action,Comedy,Documentary;nm0871860;writer,producer,director;0;5;1
+Inside Man;28954945;2,818;129;Crime,Drama,Mystery;nm0000490;director,producer,writer;1;1;0
+Cast Away;28883406;2,774;143;Adventure,Drama,Romance;nm0000709;producer,writer,director;1;5;1
+Non-Stop;28875635;3,090;82;Action,Comedy,Crime;nm0848992;director,writer,actor;0;1;0
+Miss Peregrine's Home for Peculiar Children;28871140;3,522;127;Adventure,Drama,Family;nm0000318;producer,miscellaneous,director;1;5;1
+Edge of Tomorrow;28760246;3,490;113;Action,Adventure,Sci-Fi;nm0510731;producer,director,miscellaneous;1;3;1
+Murder on the Orient Express;28681472;3,341;128;Crime,Drama,Mystery;nm0001486;director,producer,writer;1;1;0
+Meet the Parents;28623300;2,614;75;Comedy;nm0322839;writer,director,actor;0;1;0
+Obsessed;28612730;2,514;78;Crime,Drama,Mystery;nm0002061;director,producer,writer;0;1;0
+The Expendables 2;28591370;3,316;103;Action,Adventure,Thriller;nm0922346;director,producer,actor;0;3;1
+Alita: Battle Angel;28525613;3,790;122;Action,Adventure,Sci-Fi;nm0001675;producer,writer,director;1;4;1
+Boo! A Madea Halloween;28501448;2,260;103;Comedy,Drama,Horror;nm1347153;writer,director,producer;0;11;1
+Anchorman: The Legend of Ron Burgundy;28416365;3,091;94;Comedy;nm0570912;producer,writer,director;0;5;1
+Mama;28402310;2,647;90;Drama;nm0955451;director,producer,writer;0;1;0
+Free Guy;28365416;4,165;115;Action,Adventure,Comedy;nm0506613;producer,director,actor;1;5;1
+Nacho Libre;28309599;3,070;92;Comedy,Family,Sport;nm0381478;producer,director,writer;0;1;0
+Horrible Bosses;28302165;3,040;98;Comedy,Crime;nm1164861;producer,director,miscellaneous;0;3;1
+The Invisible Man;28205665;3,610;71;Horror,Sci-Fi;nm0001843;director,miscellaneous,art_director;0;1;0
+Erin Brockovich;28138465;2,848;131;Biography,Drama;nm0001752;producer,director,cinematographer;1;4;1
+Pacific Rim: Uprising;28116535;3,708;111;Action,Adventure,Fantasy;nm0215299;producer,writer,director;0;1;0
+Starsky & Hutch;28103367;3,185;101;Comedy,Crime;nm0680846;producer,director,writer;0;5;1
+Back to the Future Part II;27835125;1,865;108;Adventure,Comedy,Sci-Fi;nm0000709;producer,writer,director;0;5;1
+Hairspray;27800000;3,121;92;Comedy,Drama,Family;nm0000691;actor,writer,director;0;1;0
+He's Just Not That Into You;27785487;3,175;129;Comedy,Drama,Romance;nm0477129;director,producer,writer;1;1;0
+Mamma Mia!;27751240;2,976;108;Comedy,Musical,Romance;nm1630273;director,miscellaneous,producer;0;1;0
+Big Momma's House 2;27736056;3,261;99;Comedy,Crime;nm0925870;director,producer,miscellaneous;0;1;0
+Jarhead;27726210;2,411;125;Biography,Drama,War;nm0005222;producer,director,miscellaneous;1;3;1
+Along Came Polly;27721185;2,984;90;Comedy,Romance;nm0357453;producer,director,writer;0;1;0
+Wild Wild West;27687484;3,342;106;Action,Comedy,Sci-Fi;nm0001756;producer,director,cinematographer;0;5;1
+Daddy Day Care;27623580;3,370;92;Comedy,Family;nm0139867;director,producer;0;3;1
+The Ugly Truth;27605576;2,882;96;Comedy,Romance;nm0525659;director,writer,producer;0;2;0
+Cheaper by the Dozen;27557647;3,298;86;Comedy,Drama,Family;nm0485943;director,writer,miscellaneous;0;1;0
+The Devil Wears Prada;27537244;2,847;109;Comedy,Drama;nm0291205;production_manager,producer,director;0;2;0
+Space Jam;27528529;2,650;88;Adventure,Animation,Comedy;nm0701592;director,cinematographer,editor;0;1;0
+After Earth;27520040;3,401;100;Action,Adventure,Sci-Fi;nm0796117;producer,director,writer;0;4;1
+Beowulf;27515871;3,153;95;Action,Adventure,Fantasy;nm0048491;director,writer,producer;0;1;0
+42;27487144;3,003;128;Biography,Drama,Sport;nm0001338;writer,director,script_department;1;1;0
+The Final Destination;27408309;3,121;82;Horror,Thriller;nm0254786;stunts,assistant_director,actor;0;1;0
+Jumper;27354808;3,428;88;Action,Adventure,Sci-Fi;nm0510731;producer,director,miscellaneous;0;3;1
+Journey 2: The Mysterious Island;27335363;3,470;94;Action,Adventure,Comedy;nm0679031;producer,writer,director;0;2;0
+Real Steel;27319677;3,440;127;Action,Drama,Sci-Fi;nm0506613;producer,director,actor;1;5;1
+Les Misérables;27281735;2,814;100;Drama;nm0515979;director,actor,writer;0;1;0
+Night School;27257615;3,010;88;Horror,Mystery,Thriller;nm0400731;writer,director,producer;0;1;0
+Jack the Giant Slayer;27202226;3,525;114;Action,Adventure,Fantasy;nm0001741;producer,director,actor;1;7;1
+The Bourne Identity;27118640;2,638;119;Action,Mystery,Thriller;nm0510731;producer,director,miscellaneous;1;3;1
+A Madea Family Funeral;27062332;2,442;109;Comedy,Drama;nm1347153;writer,director,producer;0;11;1
+2 Guns;27059130;3,025;109;Action,Comedy,Thriller;nm0466349;producer,writer,director;0;1;0
+Terminator Genisys;27018486;3,758;126;Action,Adventure,Sci-Fi;nm0851930;director,producer,writer;1;2;0
+Ender's Game;27017351;3,407;114;Action,Adventure,Sci-Fi;nm0004303;actor,director,producer;1;2;0
+The Departed;26887467;3,017;151;Crime,Drama,Thriller;nm0000217;producer,director,actor;1;2;0
+Alice Through the Looking Glass;26858726;3,763;113;Adventure,Family,Fantasy;nm0090386;writer,director,producer;1;2;0
+Underworld: Evolution;26857181;3,207;106;Action,Fantasy,Thriller;nm0936482;producer,writer,director;0;2;0
+The Curious Case of Benjamin Button;26853816;2,988;166;Drama,Fantasy,Romance;nm0000399;producer,director,writer;1;4;1
+Zombieland: Double Tap;26803104;3,468;99;Action,Comedy,Horror;nm0281508;producer,director,writer;0;2;0
+Knives Out;26769548;3,461;90;Drama;nm0937501;writer,director,producer;0;1;0
+Flubber;26725207;2,641;93;Comedy,Family,Sci-Fi;nm0562645;producer,director,camera_department;0;1;0
+Dawn of the Dead;26722575;2,745;127;Horror,Thriller;nm0001681;producer,writer,director;1;1;0
+Resident Evil: Afterlife;26650264;3,203;96;Action,Horror,Sci-Fi;nm0027271;writer,producer,director;0;4;1
+The House with a Clock in Its Walls;26608020;3,592;105;Comedy,Family,Fantasy;nm0744834;producer,writer,actor;0;1;0
+The Campaign;26588460;3,205;93;Comedy,Drama;nm10700391;director,writer,producer;0;1;0
+Spy Kids;26546881;3,104;88;Action,Adventure,Comedy;nm0001675;producer,writer,director;0;4;1
+The Pursuit of Happyness;26541709;2,852;117;Biography,Drama;nm0610831;director,writer,producer;1;1;0
+Crazy Rich Asians;26510140;3,384;120;Comedy,Drama,Romance;nm0160840;producer,writer,director;1;4;1
+Borat;26455463;837,000;84;Comedy;nm0153078;producer,writer,director;0;2;0
+All Eyez on Me;26435354;2,471;139;Biography,Drama,Music;nm1534600;director,producer,writer;1;1;0
+We're the Millers;26419396;3,260;110;Comedy,Crime;nm1098493;director,producer,writer;0;3;1
+Hollow Man;26414386;2,956;112;Action,Horror,Sci-Fi;nm0000682;director,producer,writer;1;4;1
+Don't Breathe;26411706;3,051;86;Documentary;nm0457038;actress,director,writer;0;1;0
+Beverly Hills Cop II;26348555;2,326;100;Action,Comedy,Crime;nm0001716;producer,director,actor;0;3;1
+The Curse of La Llorona;26347631;3,372;93;Horror,Mystery,Thriller;nm1980431;director,writer,visual_effects;0;3;1
+Anchorman 2: The Legend Continues;26232425;3,507;119;Comedy;nm0570912;producer,writer,director;1;5;1
+The Suicide Squad;26205415;4,002;132;Action,Adventure,Comedy;nm0348181;writer,producer,director;1;4;1
+GoldenEye;26205007;2,667;130;Action,Adventure,Thriller;nm0132709;director,producer,actor;1;3;1
+The Golden Compass;26125000;3,528;113;Adventure,Family,Fantasy;nm0919363;producer,writer,director;1;2;0
+The Help;26044590;2,534;146;Drama;nm0853238;actor,producer,director;1;1;0
+True Lies;25869770;2,368;141;Action,Comedy,Thriller;nm0000116;writer,producer,director;1;3;1
+Tropic Thunder;25812796;3,319;107;Action,Comedy,War;nm0001774;producer,actor,director;0;1;0
+Evil Dead;25775847;3,025;91;Horror;nm1793079;writer,producer,director;0;1;0
+Rocketman;25725722;3,610;70;Documentary;nm1076427;actor,director,editor;0;1;0
+Miami Vice;25723815;3,021;132;Action,Adventure,Crime;nm0000520;producer,writer,director;1;2;0
+Captain Phillips;25718314;3,020;134;Action,Biography,Crime;nm0339030;director,producer,writer;1;4;1
+The A-Team;25669455;3,535;117;Action,Adventure,Crime;nm0138620;producer,writer,director;1;1;0
+Big Momma's House;25661041;2,802;99;Action,Comedy,Crime;nm0331532;editor,director,editorial_department;0;5;1
+About Last Night;25649011;2,253;113;Comedy,Drama,Romance;nm0001880;producer,writer,director;1;2;0
+V for Vendetta;25642340;3,365;132;Action,Drama,Sci-Fi;nm0574625;assistant_director,director,producer;1;1;0
+Robin Hood: Prince of Thieves;25625602;2,369;143;Action,Adventure,Drama;nm0721817;director,writer,assistant_director;1;2;0
+Kill Bill: Vol. 2;25600000;2,971;137;Action,Crime,Thriller;nm0000233;writer,actor,producer;1;5;1
+Total Recall;25577758;3,601;113;Action,Adventure,Sci-Fi;nm0000682;director,producer,writer;1;4;1
+Battleship;25534825;3,690;131;Action,Adventure,Sci-Fi;nm0000916;producer,actor,writer;1;2;0
+The Visit;25427560;3,069;110;Comedy,Romance;nm0682881;writer,director,assistant_director;0;1;0
+The Nutty Professor;25411725;2,115;107;Comedy,Romance,Sci-Fi;nm0001471;actor,writer,soundtrack;0;1;0
+The Firm;25400000;2,393;154;Drama,Mystery,Thriller;nm0001628;director,producer,actor;1;1;0
+Madea's Witness Protection;25390575;2,161;114;Comedy,Crime,Drama;nm1347153;writer,director,producer;1;11;1
+Gnomeo & Juliet;25356909;2,994;84;Adventure,Animation,Comedy;nm0038432;art_department,animation_department,director;0;1;0
+Apollo 13;25353380;2,197;140;Adventure,Drama,History;nm0000165;producer,actor,writer;1;5;1
+Indiana Jones and the Temple of Doom;25337110;1,687;118;Action,Adventure;nm0000229;producer,writer,director;1;10;1
+Gone in 60 Seconds;25336048;3,006;105;Action,Crime,Drama;nm0355181;writer,producer,actor;0;1;0
+Public Enemies;25271675;3,334;68;Comedy,Crime,Drama;nm0736610;director,producer,writer;0;1;0
+Patch Adams;25262280;2,712;115;Biography,Comedy,Drama;nm0001723;producer,director,actor;1;4;1
+Date Night;25207599;3,374;88;Comedy,Crime,Romance;nm0506613;producer,director,actor;0;5;1
+Tomorrow Never Dies;25143007;2,807;119;Action,Adventure,Thriller;nm0006854;director,producer,editorial_department;1;1;0
+Meet the Robinsons;25123781;3,413;95;Adventure,Animation,Comedy;nm0027459;animation_department,director,miscellaneous;0;1;0
+Master and Commander: The Far Side of the World;25105990;3,101;138;Action,Adventure,Drama;nm0001837;director,writer,producer;1;2;0
+The Rock;25069525;2,392;136;Action,Adventure,Thriller;nm0000881;producer,director,actor;1;8;1
+Madea's Big Happy Family;25068677;2,288;106;Comedy,Drama;nm1347153;writer,director,producer;0;11;1
+Dr. Dolittle 2;25037039;3,049;87;Comedy,Family,Fantasy;nm0139867;director,producer;0;3;1
+Blue Beetle;25030225;3,871;127;Action,Adventure,Sci-Fi;nm3924049;director,producer,writer;1;1;0
+Vanilla Sky;25015518;2,742;136;Fantasy,Mystery,Romance;nm0001081;writer,producer,director;1;1;0
+Peter Rabbit;25010928;3,725;62;Drama;nm11923499;director,writer;0;1;0
+Jack and Jill;25003575;3,438;50;Western;nm0853336;director,actor,producer;0;1;0
+Skyscraper;24905015;3,782;68;Drama;nm0383304;writer,director,production_manager;0;1;0
+Flight;24900566;1,884;110;Action,Adventure,Romance;nm0001008;director,writer,producer;0;1;0
+White House Down;24852258;3,222;131;Action,Drama,Thriller;nm0000386;writer,producer,director;1;5;1
+A Good Day to Die Hard;24834845;3,553;98;Action,Thriller;nm0601382;camera_department,director,producer;0;1;0
+True Grit;24830443;3,047;128;Adventure,Drama,Western;nm0368871;director,assistant_director,art_department;1;1;0
+The Call of the Wild;24791624;3,752;104;Adventure,Family,Western;nm0002175;director,writer,producer;0;1;0
+The Other Woman;24763752;3,205;50;Drama;nm0662032;director,producer,actor;0;1;0
+Zombieland;24733155;3,036;88;Action,Comedy,Horror;nm0281508;producer,director,writer;0;2;0
+10 Cloverfield Lane;24727437;3,391;103;Drama,Horror,Mystery;nm0870469;music_department,director,writer;0;1;0
+Taken;24717037;3,183;98;Drama,Thriller;nm0279051;director,writer,actor;0;1;0
+The Accountant;24710273;3,332;50;Action,Thriller;nm0924455;director,writer,cinematographer;0;1;0
+Collateral;24701458;3,188;120;Action,Crime,Drama;nm0000520;producer,writer,director;1;2;0
+Congo;24642539;2,649;109;Action,Adventure,Mystery;nm0550881;producer,miscellaneous,director;0;1;0
+The Butler;24637312;2,933;132;Biography,Drama;nm0200005;producer,writer,director;1;1;0
+The Predator;24632284;4,037;107;Action,Adventure,Horror;nm0000948;writer,actor,director;0;2;0
+Flightplan;24629938;3,424;98;Drama,Mystery,Thriller;nm0777881;director,writer,soundtrack;0;4;1
+Knowing;24604751;3,332;121;Action,Mystery,Sci-Fi;nm0001639;director,producer,writer;1;2;0
+Christopher Robin;24585139;3,602;104;Adventure,Comedy,Drama;nm0286975;producer,director,writer;0;3;1
+Eraser;24566446;2,410;115;Action,Crime,Thriller;nm0751080;director,producer,writer;1;2;0
+The Girl on the Train;24536265;3,144;97;Drama;nm0029242;writer,director,actor;0;1;0
+The Emoji Movie;24531923;4,075;86;Adventure,Animation,Comedy;nm1902232;writer,director,actor;0;1;0
+Evil Dead Rise;24504315;3,402;96;Horror;nm2091846;director,writer,producer;0;1;0
+Pet Sematary;24502775;3,585;103;Fantasy,Horror,Thriller;nm0005116;director,writer,miscellaneous;0;1;0
+Forrest Gump;24450602;1,595;142;Drama,Romance;nm0000709;producer,writer,director;1;5;1
+Mean Girls;24432195;2,839;97;Comedy;nm0914132;director,producer,writer;0;1;0
+Failure to Launch;24411322;3,057;97;Comedy,Romance;nm0223359;director,camera_department,producer;0;1;0
+Race to Witch Mountain;24402214;3,187;98;Action,Adventure,Family;nm0275698;producer,director,actor;0;3;1
+Contraband;24349815;2,863;92;Drama;nm0189076;director,writer,producer;0;1;0
+The Chronicles of Riddick;24289165;2,757;119;Action,Adventure,Sci-Fi;nm0878638;writer,director,producer;1;1;0
+The Haunted Mansion;24278410;3,122;99;Comedy,Family,Fantasy;nm0591450;producer,director,animation_department;0;3;1
+The Last Samurai;24271354;2,908;90;Action,Adventure,Drama;nm0562577;writer,miscellaneous,director;0;1;0
+TMNT;24255205;3,110;87;Action,Adventure,Animation;nm1083489;art_department,writer,director;0;1;0
+No Good Deed;24250283;2,175;97;Crime,Drama,Thriller;nm0706182;producer,director,writer;0;1;0
+Barbershop 2: Back in Business;24241612;2,711;106;Comedy,Drama;nm0838198;director,actor,writer;0;1;0
+Coach Carter;24182961;2,524;136;Biography,Drama,Sport;nm0141961;director,producer,actor;1;2;0
+Maze Runner: The Death Cure;24167011;3,787;143;Action,Adventure,Sci-Fi;nm1226871;art_department,director,visual_effects;1;3;1
+Warcraft;24166110;3,400;123;Action,Adventure,Fantasy;nm1512910;director,writer,producer;1;1;0
+Con Air;24131738;2,824;115;Action,Crime,Thriller;nm0922346;director,producer,actor;1;3;1
+Exodus: Gods and Kings;24115934;3,503;150;Action,Adventure,Drama;nm0000631;producer,director,production_designer;1;4;1
+White Noise;24113565;2,261;101;Drama,Horror,Mystery;nm0768249;director,actor,miscellaneous;0;1;0
+21;24105943;2,648;105;Comedy,Drama,Romance;nm0291209;producer,editor,editorial_department;0;1;0
+The Conjuring: The Devil Made Me Do It;24104332;3,102;112;Horror,Mystery,Thriller;nm1980431;director,writer,visual_effects;1;3;1
+Haunted Mansion;24082475;3,740;90;Horror;nm0864771;assistant_director,writer,director;0;1;0
+Arrival;24074047;2,317;116;Drama,Mystery,Sci-Fi;nm0898288;director,writer,editor;1;2;0
+Tower Heist;24025190;3,367;104;Action,Comedy,Crime;nm0711840;producer,director,music_department;0;5;1
+Pixels;24011616;3,723;100;Action,Comedy;nm3941893;writer,director,soundtrack;0;1;0
+The Chronicles of Narnia: The Voyage of the Dawn Treader;24005069;3,555;113;Adventure,Family,Fantasy;nm0000776;director,producer,miscellaneous;1;2;0
+Monster-in-Law;24000000;3,424;101;Comedy,Romance;nm0525659;director,writer,producer;0;2;0
+The Fast and the Furious: Tokyo Drift;23973840;3,027;104;Action,Crime,Thriller;nm0510912;producer,director,writer;0;6;1
+Fahrenheit 9/11;23920637;868,000;122;Documentary,Drama,War;nm0601619;director,producer,writer;1;1;0
+Captain Underpants: The First Epic Movie;23851539;3,434;89;Action,Adventure,Animation;nm1659741;writer,miscellaneous,art_department;0;2;0
+The Town;23808032;2,861;125;Crime,Drama,Thriller;nm0000255;producer,actor,writer;1;1;0
+How to Lose a Guy in 10 Days;23774850;2,923;116;Comedy,Romance;nm0677953;director,actor,producer;1;1;0
+Rise of the Guardians;23773465;3,653;97;Action,Adventure,Animation;nm0709056;art_department,director,producer;0;1;0
+Paul Blart: Mall Cop 2;23762435;3,633;94;Action,Comedy,Crime;nm0275698;producer,director,actor;0;3;1
+The Fugitive;23758855;2,340;60;Drama,Western;nm0292134;director,writer,assistant_director;0;1;0
+17 Again;23722310;3,255;102;Comedy,Drama,Fantasy;nm0824882;director,actor,writer;0;1;0
+Fury;23702421;3,173;90;Adventure,Drama;nm0454771;actor,director,producer;0;1;0
+Resident Evil: Extinction;23678580;2,828;94;Action,Horror,Sci-Fi;nm0611683;director,producer,writer;0;1;0
+Tomb Raider;23633317;3,854;119;Action,Adventure,Fantasy;nm1012385;director,writer,assistant_director;1;1;0
+The Black Phone;23633220;3,150;103;Horror,Mystery,Thriller;nm0220600;producer,director,writer;0;3;1
+Open Season;23624548;3,833;100;Action,Drama,Thriller;nm0172772;director,producer,writer;0;1;0
+Goosebumps;23618556;3,501;103;Adventure,Comedy,Fantasy;nm1224299;writer,director,producer;0;2;0
+The Boss;23586645;3,480;50;Drama;nm0154352;director,actor,writer;0;2;0
+Dinner for Schmucks;23527839;2,911;114;Comedy;nm0005366;producer,director,writer;1;4;1
+Mary Poppins Returns;23523121;4,090;130;Adventure,Comedy,Family;nm0551128;director,miscellaneous,producer;1;2;0
+Dracula Untold;23514615;2,885;92;Action,Drama,Fantasy;nm2411495;director,producer,writer;0;1;0
+The Amityville Horror;23507007;3,323;117;Horror;nm0742341;director,producer,production_manager;1;1;0
+Be Cool;23450212;3,216;118;Comedy,Crime,Music;nm0336620;director,producer,actor;1;5;1
+I Can Do Bad All by Myself;23446785;2,255;113;Comedy,Drama;nm1347153;writer,director,producer;1;11;1
+Save the Last Dance;23444930;2,230;112;Drama,Music,Romance;nm0141961;director,producer,actor;1;2;0
+Once Upon a Time in Mexico;23424118;3,282;102;Action,Crime,Thriller;nm0001675;producer,writer,director;0;4;1
+Face/Off;23387530;2,621;138;Action,Crime,Sci-Fi;nm0000247;director,producer,writer;1;2;0
+The Taking of Pelham 123;23373102;3,074;106;Action,Crime,Thriller;nm0001716;producer,director,actor;0;3;1
+The Polar Express;23323463;3,650;100;Adventure,Animation,Comedy;nm0000709;producer,writer,director;0;5;1
+Mortal Kombat;23302503;3,073;101;Action,Adventure,Fantasy;nm0027271;writer,producer,director;0;4;1
+Cocaine Bear;23260790;3,534;95;Comedy,Thriller;nm0006969;actress,producer,director;0;2;0
+Pineapple Express;23245025;3,072;111;Action,Comedy,Crime;nm0337773;producer,director,writer;0;3;1
+Alvin and the Chipmunks: Chipwrecked;23244744;3,723;87;Adventure,Animation,Comedy;nm0593610;director,writer,actor;0;3;1
+Eragon;23239907;3,020;104;Action,Adventure,Family;nm0266777;visual_effects,director,assistant_director;0;1;0
+This Is It;23234394;3,481;111;Documentary,Drama,Music;nm0650905;director,miscellaneous,producer;0;2;0
+Hellboy;23172440;3,028;122;Action,Adventure,Fantasy;nm0868219;writer,producer,director;1;4;1
+Double Jeopardy;23162542;2,547;70;Action,Adventure,Crime;nm0819806;director,assistant_director,production_manager;0;1;0
+Jackass Forever;23154388;3,604;96;Action,Comedy,Documentary;nm0871860;writer,producer,director;0;5;1
+The Mask;23117068;2,360;50;Comedy,Drama;nm0373614;director,writer;0;1;0
+Star Trek: Generations;23116394;2,659;118;Action,Adventure,Mystery;nm0141222;director,producer,writer;1;2;0
+Eat Pray Love;23104523;3,082;133;Biography,Drama,Romance;nm0614682;producer,writer,music_department;1;1;0
+The League of Extraordinary Gentlemen;23075892;3,002;110;Action,Adventure,Fantasy;nm0635759;special_effects,make_up_department,visual_effects;0;1;0
+Resident Evil: Apocalypse;23036273;3,284;94;Action,Horror,Sci-Fi;nm0936838;camera_department,assistant_director,director;0;1;0
+Star Wars: Episode VI - Return of the Jedi;23019618;1,002;131;Action,Adventure,Fantasy;nm0549658;director,producer,writer;1;1;0
+27 Dresses;23007725;3,057;111;Comedy,Romance;nm0281945;miscellaneous,director,actress;0;1;0
+The Haunting in Connecticut;23004765;2,732;92;Drama,Horror,Mystery;nm1433996;director,writer,producer;0;1;0
+The Princess Diaries 2: Royal Engagement;22956453;3,472;113;Comedy,Family,Romance;nm0005190;writer,producer,actor;1;3;1
+The Game Plan;22950971;3,103;110;Comedy,Family,Sport;nm0275698;producer,director,actor;0;3;1
+Vantage Point;22874936;3,149;90;Action,Crime,Drama;nm0871428;director,writer;0;1;0
+Jack Reacher: Never Go Back;22872490;3,780;118;Action,Crime,Drama;nm0001880;producer,writer,director;1;2;0
+The Princess Diaries;22862269;2,537;115;Comedy,Family,Romance;nm0005190;writer,producer,actor;1;3;1
+Mission to Mars;22855247;3,054;114;Adventure,Sci-Fi,Thriller;nm0000361;director,writer,producer;1;2;0
+PAW Patrol: The Mighty Movie;22764354;3,989;88;Action,Adventure,Animation;nm2117510;art_department,animation_department,writer;0;1;0
+Jackass: The Movie;22763437;2,509;85;Action,Comedy,Documentary;nm0871860;writer,producer,director;0;5;1
+Man on Fire;22751490;2,980;95;Drama;nm0532030;writer,director,producer;0;1;0
+Insidious: Chapter 3;22692741;3,002;97;Horror,Mystery,Thriller;nm1191481;actor,writer,producer;0;1;0
+Unstoppable;22688457;3,207;96;Action,Adventure,Drama;nm0141222;director,producer,writer;0;2;0
+Black Mass;22635037;3,188;123;Biography,Crime,Drama;nm0178376;actor,director,writer;1;1;0
+Poltergeist;22620386;3,240;114;Horror,Thriller;nm0001361;director,writer,producer;1;1;0
+The Time Machine;22610437;2,944;103;Adventure,Romance,Sci-Fi;nm0657162;director,producer,cinematographer;0;1;0
+Smile;22609925;3,645;113;Comedy;nm0006916;director,producer,actor;1;1;0
+Bridge to Terabithia;22564612;3,139;96;Drama,Family,Fantasy;nm0190780;producer,writer,animation_department;0;1;0
+Training Day;22550788;2,712;122;Action,Crime,Drama;nm0298807;producer,director,actor;1;5;1
+Saw 3D;22530123;2,808;90;Horror,Mystery;nm0340436;editor,editorial_department,director;0;1;0
+The Mask of Zorro;22525855;2,515;136;Action,Adventure,Comedy;nm0132709;director,producer,actor;1;3;1
+Heaven Is for Real;22522221;2,417;99;Biography,Drama,Family;nm0908824;writer,producer,director;0;1;0
+The Lucky One;22518358;3,155;80;Comedy;nm0856915;director,writer,soundtrack;0;1;0
+Life of Pi;22451514;2,927;127;Adventure,Drama,Fantasy;nm0000487;director,producer,writer;1;2;0
+The Social Network;22445653;2,771;120;Biography,Drama;nm0000399;producer,director,writer;1;4;1
+The Patriot;22413710;3,061;50;Western;nm0366586;actor,director,producer;0;1;0
+Contagion;22403596;3,222;95;Drama,Sci-Fi;nm0613981;director,producer,cinematographer;0;1;0
+Now You See Me 2;22383146;3,232;129;Action,Adventure,Comedy;nm0160840;producer,writer,director;1;4;1
+Walk the Line;22347341;2,961;136;Biography,Drama,Music;nm0003506;producer,director,writer;1;3;1
+The General's Daughter;22332053;2,856;97;Drama,Romance,War;nm0273356;director,writer,editor;0;1;0
+Planes;22232291;3,702;91;Adventure,Animation,Comedy;nm0355806;director,animation_department,miscellaneous;0;1;0
+Disturbia;22224982;2,925;105;Crime,Drama,Mystery;nm0142286;director,producer,writer;0;2;0
+Legally Blonde 2: Red, White & Blonde;22220670;3,350;95;Comedy;nm0379237;director,actor,producer;0;1;0
+Monster House;22217226;3,553;91;Animation,Comedy,Family;nm1481493;director,writer,producer;0;1;0
+Freaky Friday;22203007;2,954;95;Comedy,Family,Fantasy;nm0625379;director,assistant_director,producer;0;1;0
+Kill Bill: Vol. 1;22200000;3,102;111;Action,Crime,Thriller;nm0000233;writer,actor,producer;0;5;1
+Die Hard with a Vengeance;22162245;2,525;128;Action,Adventure,Thriller;nm0001532;director,producer,writer;1;1;0
+Poseidon;22155410;3,555;98;Action,Adventure,Thriller;nm0000583;director,producer,writer;0;4;1
+Diary of a Wimpy Kid;22126166;3,077;94;Comedy,Drama,Family;nm0294457;director,producer,writer;0;1;0
+It's Complicated;22100820;2,887;121;Comedy,Drama,Romance;nm0583600;writer,producer,director;1;1;0
+Ladder 49;22088204;3,260;115;Action,Drama,Thriller;nm0751221;director,producer,writer;1;1;0
+Road to Perdition;22079481;1,797;117;Crime,Drama,Thriller;nm0005222;producer,director,miscellaneous;1;3;1
+Starship Troopers;22058773;2,971;129;Action,Adventure,Sci-Fi;nm0000682;director,producer,writer;1;4;1
+Star Trek: Insurrection;22052836;2,620;103;Action,Adventure,Sci-Fi;nm0000408;actor,director,producer;0;2;0
+Chronicle;22004098;2,907;89;Action,Drama,Sci-Fi;nm2503633;writer,director,editor;0;1;0
+The Monuments Men;22003433;3,083;118;Comedy,Drama,History;nm0000123;actor,producer,director;1;1;0
+Candyman;22001750;3,569;99;Horror,Thriller;nm0741262;director,writer,cinematographer;0;1;0
+Hide and Seek;21959233;3,005;63;Documentary,Drama;nm0295453;director,editor,cinematographer;0;1;0
+Diary of a Mad Black Woman;21905089;1,483;116;Comedy,Drama,Romance;nm0335337;director,producer,miscellaneous;1;1;0
+Inspector Gadget;21889138;2,814;78;Action,Adventure,Comedy;nm0446109;director,producer,writer;0;1;0
+Unknown;21856389;3,043;85;Crime,Drama,Mystery;nm1868746;director,producer,actor;0;1;0
+Dolittle;21844045;4,155;101;Adventure,Comedy,Family;nm0300866;writer,miscellaneous,director;0;1;0
+Stomp the Yard;21833312;2,051;115;Drama,Music,Romance;nm1234893;director,writer,producer;1;1;0
+Notting Hill;21811180;2,747;124;Comedy,Drama,Romance;nm0585011;director,writer,producer;1;1;0
+Lara Croft: Tomb Raider - The Cradle of Life;21783641;3,222;117;Action,Adventure,Fantasy;nm0000957;cinematographer,camera_department,producer;1;1;0
+RED;21761408;3,255;111;Action,Comedy,Crime;nm0777881;director,writer,soundtrack;0;4;1
+Neighbors 2: Sorority Rising;21760405;3,384;92;Comedy;nm0831557;producer,writer,director;0;1;0
+Die Hard 2;21744661;2,507;124;Action,Thriller;nm0001317;producer,director,writer;1;1;0
+Texas Chainsaw;21744470;2,654;92;Horror,Thriller;nm0525141;director,writer,producer;0;1;0
+Garfield;21727611;3,094;80;Adventure,Animation,Comedy;nm0382072;director,writer,producer;0;1;0
+Shaft;21714757;2,337;100;Action,Crime,Thriller;nm0662953;director,soundtrack,writer;0;1;0
+Cats & Dogs;21707617;3,040;87;Action,Adventure,Comedy;nm0349183;director,producer,writer;0;1;0
+Eyes Wide Shut;21706163;2,411;159;Drama,Mystery,Thriller;nm0000040;director,writer,producer;1;1;0
+Spy Game;21689125;2,770;126;Action,Crime,Thriller;nm0001716;producer,director,actor;1;3;1
+Lights Out;21688103;2,818;70;Crime,Drama;nm0763453;director,writer,producer;0;1;0
+RoboCop;21681430;3,372;102;Action,Crime,Sci-Fi;nm0000682;director,producer,writer;0;4;1
+My Best Friend's Wedding;21678377;2,134;105;Comedy,Drama,Romance;nm0389591;writer,director,assistant_director;0;1;0
+Bumblebee;21654047;3,550;114;Action,Adventure,Sci-Fi;nm1325899;animation_department,director,producer;1;1;0
+Temptation: Confessions of a Marriage Counselor;21641679;2,047;111;Drama;nm1347153;writer,director,producer;0;11;1
+London Has Fallen;21635601;3,490;99;Action,Thriller;nm0619836;director,writer,editor;0;1;0
+Little Man;21613176;2,533;90;Drama;nm0720745;actor,director,writer;0;1;0
+When a Stranger Calls;21607203;2,999;97;Horror,Mystery,Thriller;nm0910510;director,writer,actor;0;1;0
+Tammy;21577049;3,465;97;Comedy,Romance;nm1229520;actor,producer,writer;0;1;0
+Christmas with the Kranks;21570867;3,393;99;Comedy,Family;nm0005387;producer,director,miscellaneous;0;2;0
+American Reunion;21514080;3,192;90;Documentary;nm0569000;actor,director,producer;0;1;0
+Cruella;21496997;3,892;134;Adventure,Comedy,Crime;nm0318916;producer,director,writer;1;1;0
+The 40-Year-Old Virgin;21422815;2,845;116;Comedy,Romance;nm0031976;producer,writer,director;1;3;1
+The Stepford Wives;21406781;3,057;115;Horror,Mystery,Sci-Fi;nm0285302;actor,writer,director;1;1;0
+Good Boys;21402605;3,204;75;Crime,Drama,Romance;nm1937252;director,producer,writer;0;1;0
+Safe Haven;21401594;3,223;84;Drama,Thriller;nm1173226;producer,director,production_manager;0;1;0
+The Forbidden Kingdom;21401121;3,151;104;Action,Adventure,Fantasy;nm0591450;producer,director,animation_department;0;3;1
+The Hitman's Bodyguard;21384504;3,377;118;Action,Comedy,Crime;nm0400850;director,writer,producer;1;1;0
+Angel Has Fallen;21380987;3,286;121;Action,Thriller;nm0006846;stunts,director,writer;1;1;0
+Why Did I Get Married?;21353789;2,011;113;Comedy,Drama,Romance;nm1347153;writer,director,producer;1;11;1
+Turbo;21312625;3,806;96;Adventure,Animation,Comedy;nm1659741;writer,miscellaneous,art_department;0;2;0
+My Bloody Valentine;21241456;2,534;90;Horror,Mystery,Thriller;nm0586198;director,producer,miscellaneous;0;1;0
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train;21234994;1,614;117;Action,Adventure,Animation;nm1417038;animation_department,director,art_department;1;1;0
+Boo 2! A Madea Halloween;21226953;2,388;101;Comedy,Drama,Horror;nm1347153;writer,director,producer;0;11;1
+Payback;21221526;2,729;90;Action,Comedy,Crime;nm0709527;actor,writer,assistant_director;0;1;0
+Four Brothers;21176925;2,533;109;Action,Crime,Drama;nm0005436;producer,writer,director;0;2;0
+Waterworld;21171780;2,268;135;Action,Adventure,Sci-Fi;nm0721817;director,writer,assistant_director;1;2;0
+The Adjustment Bureau;21157730;2,840;106;Crime,Mystery,Romance;nm1079776;writer,producer,director;0;1;0
+Dragon Ball Super: Super Hero;21126919;3,018;100;Action,Adventure,Animation;nm10429652;director,animation_department;0;1;0
+The Hitchhiker's Guide to the Galaxy;21103203;3,133;109;Adventure,Comedy,Sci-Fi;nm1134029;director,actor,writer;0;1;0
+Bride Wars;21058173;3,226;89;Comedy,Romance;nm0935095;producer,director,editor;0;2;0
+13 Going on 30;21054283;3,438;98;Comedy,Fantasy,Romance;nm0935095;producer,director,editor;0;2;0
+Resident Evil: Retribution;21052227;3,012;95;Action,Horror,Sci-Fi;nm0027271;writer,producer,director;0;4;1
+Project X;21051363;3,055;60;Action,Adventure,Drama;nm0598723;producer,director,production_manager;0;1;0
+Law Abiding Citizen;21039502;2,890;109;Action,Crime,Drama;nm0336620;director,producer,actor;0;5;1
