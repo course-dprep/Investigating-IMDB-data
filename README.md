@@ -94,13 +94,13 @@ Data analysis:
 
 # Recreating the Project: A Comprehensive Guide -- Need to check this
 For this project, ```make``` was used to automate the project. When running the makefile that is not put into a folder within this repository, all folder specific makefiles are controlled. With this, the project is run and therefore does not need to be done manually. Below is the order in which the project runs:
-
+```
 *src/python_source_code/1_boxofficemojo_openingweekendscraper.py
 src/data-preparation/2_download_and_merge_data.R
 src/data-preparation/3_data_filter_and_merge_data.R
 src/analysis/4_Analysis.Rmd
 **gen/clean.R
-
+```
 *This code is not run by make. Because this code is static and will not be modified much over time, it was chosen not to run this code through make. The dataset that comes out of this webscraper can be found in data/weekend_data.csv. If you want to run this scraper yourself, you can do so by running the file in Python. So the data from this scraper is extracted from a csv file and used as input for 2_download_and_merge_data.R.
 
 The clean.R is not run manually and can be run to remove temporary generated files from the directory tree. It is not run right away because these files could be used to re-run results from a later stage in the project. This ensures that the large datasets do not always have to be loaded.
