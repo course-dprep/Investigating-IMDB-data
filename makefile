@@ -5,7 +5,3 @@ data-preparation:
 
 analysis: data-preparation
 	make -C src/analysis
-
-clean:
-	make -C gen 
-	
