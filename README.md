@@ -60,15 +60,6 @@ Looking at the results, we clearly observe a difference in the two means between
 ├── README.md
 ├── makefile
 ```
-# Example of reproducible research workflow -- Need to check this
-
-This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
-
-The main aim of this to have a basic structure, which can be easily adjusted to use in an actual project.  In this example project, the following is done: 
-1. Download and prepare data
-2. Run some analysis
-3. Present results in a final pdf generated using LaTeX
-
 # Dependencies
 ## Software
 In this research project, a diverse range of software applications were employed to gather and manipulate data effectively. Below, you will find a comprehensive list of the requisite software packages utilized throughout the course of this project: 
@@ -102,20 +93,19 @@ Data analysis:
 - library(readr)
 
 # Recreating the Project: A Comprehensive Guide -- Need to check this
-Voor dit project is ```make``` gebruikt om het project te automatiseren. Bij het runnen van de makefile die binnen deze repository niet in een map gestopt is worden alle map specifieke makefiles aangestuurd. Hiermee wordt het project gerund en hoeft het dus niet handmatig gedaan worden. Hieronder de volgorde waarin het project runt:
+For this project, ```make``` was used to automate the project. When running the makefile that is not put into a folder within this repository, all folder specific makefiles are controlled. With this, the project is run and therefore does not need to be done manually. Below is the order in which the project runs:
 
 *src/python_source_code/1_boxofficemojo_openingweekendscraper.py
 src/data-preparation/2_download_and_merge_data.R
-src/data-preparation/3_data_filter_and_merg.R
+src/data-preparation/3_data_filter_and_merge_data.R
 src/analysis/4_Analysis.Rmd
 **gen/clean.R
 
-*Deze code wordt niet gerund door make. Omdat deze code statisch is en niet weinig aangepast zal worden over tijd is er voor gekozen om deze code niet te laten runnen via make. De dataset die uit deze webscraper komt is te vinden in data/weekend_data.csv. Wilt u deze scraper zelf laten runnen kan dit door het bestand te laten runnen in Python.
+*This code is not run by make. Because this code is static and will not be modified much over time, it was chosen not to run this code through make. The dataset that comes out of this webscraper can be found in data/weekend_data.csv. If you want to run this scraper yourself, you can do so by running the file in Python. So the data from this scraper is extracted from a csv file and used as input for 2_download_and_merge_data.R.
 
-De clean.R wordt niet handmatig gerund en kan gerund worden om tijdelijke gegenereerde files te verwijderen uit de mappenstructuur. Deze wordt niet gelijk gerund omdat deze files gebruikt zouden kunnen worden om vanaf een later stadium in het project te resultaten opnieuw te runnen. Dit zorgt ervoor dat niet altijd de grote datasets hoeven worden ingeladen.
+The clean.R is not run manually and can be run to remove temporary generated files from the directory tree. It is not run right away because these files could be used to re-run results from a later stage in the project. This ensures that the large datasets do not always have to be loaded.
 
 ## Notes -- Need to check this
-- `make clean` removes all unncessary temporary files. 
-- Tested under Linux Mint (should work in any linux distro, as well as on Windows and Mac) 
-- IMPORTANT: In `makefile`, when using `\` to split code into multiple lines, no space should follow `\`. Otherwise Gnu make aborts with error 193. 
-- Many possible improvements remain. Comments and contributions are welcome!
+- gen/paper/clean.R removes all unncessary temporary files. 
+- Tested under Windows and Mac.
+- This project is free to make additions and therefore everyone is free to contribute to it.
