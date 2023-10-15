@@ -2,7 +2,9 @@
 # Importing all the raw data
 ## Import datasets from Imdb 
 
-# Load tidyverse
+# Load library
+
+library(dplyr)
 library(tidyverse)
 # Define the URL of the first Imdb dataset
 url_basics <- "https://datasets.imdbws.com/title.basics.tsv.gz"
@@ -47,8 +49,6 @@ col_types <- cols(
 imdb_name_basics <- read_delim(url_name_basics, delim = "\t", col_types = col_types)
 
 # Merging Imbd datsets
-
-library(dplyr)
 # Merge imdb_basics_data and imdb_crew_data based on the variable 'tconst'
 imdb_basics_crew <- left_join(title_basics_data, imdb_crew_data, by="tconst")
 
