@@ -102,8 +102,17 @@ Data analysis:
 - library(readr)
 
 # Recreating the Project: A Comprehensive Guide -- Need to check this
+Voor dit project is ```make``` gebruikt om het project te automatiseren. Bij het runnen van de makefile die binnen deze repository niet in een map gestopt is worden alle map specifieke makefiles aangestuurd. Hiermee wordt het project gerund en hoeft het dus niet handmatig gedaan worden. Hieronder de volgorde waarin het project runt:
 
+*src/python_source_code/1_boxofficemojo_openingweekendscraper.py
+src/data-preparation/2_download_and_merge_data.R
+src/data-preparation/3_data_filter_and_merg.R
+src/analysis/4_Analysis.Rmd
+**gen/clean.R
 
+*Deze code wordt niet gerund door make. Omdat deze code statisch is en niet weinig aangepast zal worden over tijd is er voor gekozen om deze code niet te laten runnen via make. De dataset die uit deze webscraper komt is te vinden in data/weekend_data.csv. Wilt u deze scraper zelf laten runnen kan dit door het bestand te laten runnen in Python.
+
+De clean.R wordt niet handmatig gerund en kan gerund worden om tijdelijke gegenereerde files te verwijderen uit de mappenstructuur. Deze wordt niet gelijk gerund omdat deze files gebruikt zouden kunnen worden om vanaf een later stadium in het project te resultaten opnieuw te runnen. Dit zorgt ervoor dat niet altijd de grote datasets hoeven worden ingeladen.
 
 ## Notes -- Need to check this
 - `make clean` removes all unncessary temporary files. 
