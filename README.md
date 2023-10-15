@@ -1,5 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11726002&assignment_repo_type=AssignmentRepo)
-
+```
+![IMDb Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg)
+```
 # IMDB- the influence of a director on the movies openinggross
 
 This project estimates how much influence the director of a movie has on the money the movies makes in its opening weekend. We have created an analyzation of the connection between director and opening gross, taking in to account the; amount of theaters the movie is shown in, the genre of the movie and also the runtime of the movie (length of the movie in minutes.). this tool helps to create an insight into the amount of influence a director has on the success of a movie.
@@ -92,7 +94,7 @@ Data analysis:
 - library(utils)
 - library(readr)
 
-# Recreating the Project: A Comprehensive Guide -- Need to check this
+# Recreating the Project: A Comprehensive Guide
 For this project, ```make``` was used to automate the project. When running the makefile that is not put into a folder within this repository, all folder specific makefiles are controlled. With this, the project is run and therefore does not need to be done manually. Below is the order in which the project runs:
 ```
 *src/python_source_code/1_boxofficemojo_openingweekendscraper.py
@@ -105,7 +107,7 @@ src/analysis/4_Analysis.Rmd
 
 The clean.R is not run manually and can be run to remove temporary generated files from the directory tree. It is not run right away because these files could be used to re-run results from a later stage in the project. This ensures that the large datasets do not always have to be loaded.
 
-## Notes -- Need to check this
+## Notes 
 - gen/paper/clean.R removes all unncessary temporary files. 
 - Tested under Windows and Mac.
 - This project is free to make additions and therefore everyone is free to contribute to it.
